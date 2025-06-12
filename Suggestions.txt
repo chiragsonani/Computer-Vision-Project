@@ -1,0 +1,15 @@
+Issues:
+-RANSAC always returning the largest plane might not be the correct floor in every situation.
+-If noise produces a larger region, the actual box top might get ignored or not classified correctly.
+-Fixed RANSAC parameters may not work in every situation.
+-kernel size is fixed and not adaptive to object scale.
+-We're considering each measurement separately. We can combine multiple views to average detections.
+-No clue about whether the system is giving correct height/dimentions.
+-Box orientation is not considered
+
+Improvements:
+-add model confidence criteria for early stopping.
+-PCA to estimate box orientation 
+-Fuse data of multiple views to improve accuracy.
+
+
