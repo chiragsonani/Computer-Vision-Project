@@ -6,7 +6,7 @@ This task implements the **Selective Search** algorithm for object detection. Th
 
 ## 🚀 The Selective Search Pipeline
 
-The project tasks are structured as a step-by-step pipeline to generate object proposals:
+The tasks are structured as a step-by-step pipeline to generate object proposals:
 
 ### **Initial Segmentation**
 The process begins by using a graph-based algorithm, specifically the **Felzenszwalb algorithm**, to generate an initial set of small, homogeneous regions. This provides the base for the subsequent merging process.
@@ -33,7 +33,7 @@ The final task involves generating the full set of region proposals (bounding bo
 
 ## 🛠️ Implementation Details
 
-The project is structured with a modular, class-based architecture, with each component inheriting from a `Module` base class. This ensures a clean and scalable pipeline.
+The task is structured with a modular, class-based architecture, with each component inheriting from a `Module` base class. This ensures a clean and scalable pipeline.
 
 ### `SegmentationModule`
 This class handles the initial image segmentation using the `skimage.segmentation.felzenszwalb` function, which produces hundreds of small, uniform regions to start the selective search process.
