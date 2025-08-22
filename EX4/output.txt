@@ -1,0 +1,60 @@
+============================================================
+DEMOSAICING & HDR IMPLEMENTATION - FULL PIPELINE
+============================================================
+
+[Task 1] Investigating Bayer Pattern...
+[SUCCESS] Saved: figures/task1_bayer_pattern.png
+
+[Tasks 2-4] Demosaicing, Gamma, and White Balance...
+[INFO] Processing /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/GroupExercise-4/exercise_4_data/02/IMG_4782.CR3
+[Stage 1/4] Using RGGB Bayer pattern...
+[Stage 2/4] Demosaicing with bilinear interpolation...
+[Stage 3/4] Applying gamma correction...
+[Stage 4/4] Applying white balance...
+[SUCCESS] Processed in 6.85 seconds
+[SUCCESS] Saved to: figures/task8_final.jpg
+[SUCCESS] Saved: figures/task2-4_comparison.png
+
+[Task 5] Testing linearity analysis...
+[INFO] Analyzing linearity for 6 images...
+[SUCCESS] Saved: figures/task5_linearity.png
+
+[Task 6] HDR Implementation...
+[INFO] Loading 11 RAW files for HDR...
+[INFO] Merging using weighted_average method...
+[INFO] Using lecture algorithm...
+  - Merged exposure 2/11, threshold: 13106.4
+  - Merged exposure 3/11, threshold: 26212.8
+  - Merged exposure 4/11, threshold: 52425.6
+  - Merged exposure 5/11, threshold: 104851.2
+  - Merged exposure 6/11, threshold: 209702.4
+  - Merged exposure 7/11, threshold: 419404.8
+  - Merged exposure 8/11, threshold: 838809.6
+  - Merged exposure 9/11, threshold: 1216512.0
+  - Merged exposure 10/11, threshold: 1286553.6
+  - Merged exposure 11/11, threshold: 1385267.2
+[INFO] HDR raw data shape: (4660, 6984)
+[SUCCESS] Saved: figures/task6_raw_hdr.png
+[SUCCESS] Saved: figures/hdr.tiff
+
+[INFO] Demosaicing and white balancing HDR...
+[DEBUG] HDR max value before log: 1425461.875
+[SUCCESS] Saved: figures/task6_processed_hdr.png
+
+[Task 7] iCAM06 Tone Mapping...
+[DEBUG] iCAM06 input min: 526.7770385742188, max: 1425461.875
+[DEBUG] iCAM06 output min: 0.0, max: 1.0
+[SUCCESS] Saved: figures/task7_icam06.png
+
+[COMPLETE] All tasks finished!
+
+Generated outputs in figures/ directory:
+  1. task1_bayer_pattern.png
+  2. task2-4_comparison.png
+  3. task5_linearity.png
+  4. task6_raw_hdr.png
+  5. task6_processed_hdr.png
+  6. task7_icam06.png
+  7. task8_final.jpg
+  8. hdr.tiff
+============================================================

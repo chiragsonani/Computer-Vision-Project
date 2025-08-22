@@ -1,0 +1,109 @@
+2025-05-11 19:51:53.391 Python[30364:6656460] ApplePersistenceIgnoreState: Existing state will not be touched. New state will be written to /var/folders/6n/xfly1z7j0sz220qknxb81rbw0000gn/T/org.python.python.savedState
+Starting box detection application
+BoxDetector initialized with configuration: {'threshold': 0.05, 'kernel_size': 3}
+Initialized dataset with 4 examples from /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/data
+Found 4 examples in dataset
+
+Processing 4 examples from dataset
+Loading file: /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/data/example1kinect.mat
+
+Processing: example1kinect
+Detecting floor plane...
+Processing floor mask...
+Detecting box plane...
+Processing box mask...
+Calculating box dimensions...
+Box dimensions: Height=1.2659m × Width=0.6246m × Length=0.6825m
+Generating visualizations for example1kinect...
+Saved Figure 1 to /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/figures/example1kinect/figure1.png
+Saved Figure 2 to /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/figures/example1kinect/figure2.png
+Saved Figure 3 to /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/figures/example1kinect/figure3.png
+Saved Figure 4 to /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/figures/example1kinect/figure4.png
+
+Box Dimensions for example1kinect:
+Height: 1.2659 meters
+Width: 0.6246 meters
+Length: 0.6825 meters
+Loading file: /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/data/example2kinect.mat
+
+Processing: example2kinect
+Detecting floor plane...
+Processing floor mask...
+Detecting box plane...
+Processing box mask...
+Calculating box dimensions...
+Box dimensions: Height=1.8808m × Width=0.5591m × Length=0.6193m
+Generating visualizations for example2kinect...
+Saved Figure 1 to /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/figures/example2kinect/figure1.png
+Saved Figure 2 to /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/figures/example2kinect/figure2.png
+Saved Figure 3 to /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/figures/example2kinect/figure3.png
+Saved Figure 4 to /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/figures/example2kinect/figure4.png
+
+Box Dimensions for example2kinect:
+Height: 1.8808 meters
+Width: 0.5591 meters
+Length: 0.6193 meters
+Loading file: /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/data/example3kinect.mat
+
+Processing: example3kinect
+Detecting floor plane...
+Processing floor mask...
+Detecting box plane...
+Processing box mask...
+Calculating box dimensions...
+Box dimensions: Height=0.2042m × Width=0.5528m × Length=0.6710m
+Generating visualizations for example3kinect...
+Saved Figure 1 to /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/figures/example3kinect/figure1.png
+Saved Figure 2 to /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/figures/example3kinect/figure2.png
+Saved Figure 3 to /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/figures/example3kinect/figure3.png
+Saved Figure 4 to /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/figures/example3kinect/figure4.png
+
+Box Dimensions for example3kinect:
+Height: 0.2042 meters
+Width: 0.5528 meters
+Length: 0.6710 meters
+Loading file: /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/data/example4kinect.mat
+
+Processing: example4kinect
+Detecting floor plane...
+Processing floor mask...
+Detecting box plane...
+Processing box mask...
+Calculating box dimensions...
+Box dimensions: Height=1.7795m × Width=0.6390m × Length=0.6865m
+Generating visualizations for example4kinect...
+Saved Figure 1 to /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/figures/example4kinect/figure1.png
+Saved Figure 2 to /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/figures/example4kinect/figure2.png
+Saved Figure 3 to /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/figures/example4kinect/figure3.png
+Saved Figure 4 to /Users/rahulsawhney/Library/CloudStorage/OneDrive-Personal/Documents/Study Documents/Rahul/12) Computer Vision Project (Majors-2)/figures/example4kinect/figure4.png
+
+Box Dimensions for example4kinect:
+Height: 1.7795 meters
+Width: 0.6390 meters
+Length: 0.6865 meters
+
+====== Summary of Results ======
+example1kinect: Height=1.2659m × Width=0.6246m × Length=0.6825m
+example2kinect: Height=1.8808m × Width=0.5591m × Length=0.6193m
+example3kinect: Height=0.2042m × Width=0.5528m × Length=0.6710m
+example4kinect: Height=1.7795m × Width=0.6390m × Length=0.6865m
+
+Processing complete in 15.29 seconds
+
+======== Final Measurement Results ========
+example1kinect:
+  Height: 1.2659 meters
+  Width:  0.6246 meters
+  Length: 0.6825 meters
+example2kinect:
+  Height: 1.8808 meters
+  Width:  0.5591 meters
+  Length: 0.6193 meters
+example3kinect:
+  Height: 0.2042 meters
+  Width:  0.5528 meters
+  Length: 0.6710 meters
+example4kinect:
+  Height: 1.7795 meters
+  Width:  0.6390 meters
+  Length: 0.6865 meters

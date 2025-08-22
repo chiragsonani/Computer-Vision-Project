@@ -1,0 +1,993 @@
+2025-08-06 19:10:18,469 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:10:18,469 - FaceClusteringModule - INFO - EXERCISE 5.3 - FaceClusteringModule LOGGER INITIALIZED
+2025-08-06 19:10:18,469 - FaceClusteringModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_3_clustering.log
+2025-08-06 19:10:18,469 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:10:18,469 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:10:18,469 - FaceClusteringModule - INFO - FaceClusteringModule.__init__: Initialized with k=2
+2025-08-06 19:10:18,771 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=1
+2025-08-06 19:10:19,188 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=2
+2025-08-06 19:10:19,330 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=3
+2025-08-06 19:10:19,461 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=4
+2025-08-06 19:10:19,591 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=5
+2025-08-06 19:10:19,735 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=6
+2025-08-06 19:10:19,864 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=7
+2025-08-06 19:10:19,997 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=8
+2025-08-06 19:10:20,134 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=9
+2025-08-06 19:10:20,263 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=10
+2025-08-06 19:10:20,387 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=11
+2025-08-06 19:10:20,522 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=12
+2025-08-06 19:10:20,652 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=13
+2025-08-06 19:10:20,779 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=14
+2025-08-06 19:10:20,918 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=15
+2025-08-06 19:10:21,045 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=16
+2025-08-06 19:10:21,173 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=17
+2025-08-06 19:10:21,311 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=18
+2025-08-06 19:10:21,452 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=19
+2025-08-06 19:10:21,595 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=20
+2025-08-06 19:10:21,729 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=21
+2025-08-06 19:10:21,858 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=22
+2025-08-06 19:10:21,992 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=23
+2025-08-06 19:10:22,129 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=24
+2025-08-06 19:10:22,255 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=25
+2025-08-06 19:10:22,383 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=26
+2025-08-06 19:10:22,511 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=27
+2025-08-06 19:10:22,639 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=28
+2025-08-06 19:10:22,770 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=29
+2025-08-06 19:10:22,907 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=30
+2025-08-06 19:10:23,034 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=31
+2025-08-06 19:10:23,159 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=32
+2025-08-06 19:10:23,286 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=33
+2025-08-06 19:10:23,414 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=34
+2025-08-06 19:10:23,542 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=35
+2025-08-06 19:10:23,673 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=36
+2025-08-06 19:10:24,228 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=37
+2025-08-06 19:10:24,355 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=38
+2025-08-06 19:10:24,492 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=39
+2025-08-06 19:10:24,629 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=40
+2025-08-06 19:10:24,753 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=41
+2025-08-06 19:10:24,893 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=42
+2025-08-06 19:10:25,032 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=43
+2025-08-06 19:10:25,172 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=44
+2025-08-06 19:10:25,312 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=45
+2025-08-06 19:10:25,441 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=46
+2025-08-06 19:10:25,585 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=47
+2025-08-06 19:10:25,714 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=48
+2025-08-06 19:10:25,853 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=49
+2025-08-06 19:10:25,982 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=50
+2025-08-06 19:10:26,112 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=51
+2025-08-06 19:10:26,242 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=52
+2025-08-06 19:10:26,381 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=53
+2025-08-06 19:10:26,523 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=54
+2025-08-06 19:10:26,653 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=55
+2025-08-06 19:10:26,783 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=56
+2025-08-06 19:10:26,914 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=57
+2025-08-06 19:10:27,042 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=58
+2025-08-06 19:10:27,180 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=59
+2025-08-06 19:10:27,322 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=60
+2025-08-06 19:10:27,453 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=61
+2025-08-06 19:10:27,595 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=62
+2025-08-06 19:10:27,728 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=63
+2025-08-06 19:10:27,868 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=64
+2025-08-06 19:10:27,998 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=65
+2025-08-06 19:10:28,125 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=66
+2025-08-06 19:10:28,265 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=67
+2025-08-06 19:10:28,401 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=68
+2025-08-06 19:10:28,542 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=69
+2025-08-06 19:10:28,681 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=70
+2025-08-06 19:10:28,821 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=71
+2025-08-06 19:10:28,961 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=72
+2025-08-06 19:10:29,101 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=73
+2025-08-06 19:10:29,231 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=74
+2025-08-06 19:10:29,371 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=75
+2025-08-06 19:10:29,501 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=76
+2025-08-06 19:10:29,630 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=77
+2025-08-06 19:10:29,758 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=78
+2025-08-06 19:10:29,892 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=79
+2025-08-06 19:10:30,034 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=80
+2025-08-06 19:10:30,145 - FaceClusteringModule - INFO - FaceClusteringModule.fit: Running k-means with 80 embeddings, k=2
+2025-08-06 19:10:30,145 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 80 embeddings into 2 clusters
+2025-08-06 19:10:30,145 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [64, 45]
+2025-08-06 19:10:30,146 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=6.356
+2025-08-06 19:10:30,146 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=3.604
+2025-08-06 19:10:30,147 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=3.591
+2025-08-06 19:10:30,148 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 5
+2025-08-06 19:10:30,148 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 47, 1: 33}
+2025-08-06 19:10:30,158 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 1/5
+2025-08-06 19:10:30,159 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:10:30,159 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 80 embeddings into 2 clusters
+2025-08-06 19:10:30,159 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [30, 0]
+2025-08-06 19:10:30,159 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=10.214
+2025-08-06 19:10:30,160 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=4.148
+2025-08-06 19:10:30,160 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=3.647
+2025-08-06 19:10:30,161 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 4
+2025-08-06 19:10:30,161 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 47, 1: 33}
+2025-08-06 19:10:30,164 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 2/5
+2025-08-06 19:10:30,164 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:10:30,164 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 80 embeddings into 2 clusters
+2025-08-06 19:10:30,164 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [29, 39]
+2025-08-06 19:10:30,165 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=8.726
+2025-08-06 19:10:30,165 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=4.187
+2025-08-06 19:10:30,165 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=4.140
+2025-08-06 19:10:30,167 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=3.905
+2025-08-06 19:10:30,167 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 8
+2025-08-06 19:10:30,167 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 47, 1: 33}
+2025-08-06 19:10:30,168 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 3/5
+2025-08-06 19:10:30,168 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:10:30,168 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 80 embeddings into 2 clusters
+2025-08-06 19:10:30,168 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [34, 25]
+2025-08-06 19:10:30,168 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=7.954
+2025-08-06 19:10:30,169 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=4.665
+2025-08-06 19:10:30,169 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=4.292
+2025-08-06 19:10:30,170 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=3.578
+2025-08-06 19:10:30,170 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 7
+2025-08-06 19:10:30,170 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 47, 0: 33}
+2025-08-06 19:10:30,171 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 4/5
+2025-08-06 19:10:30,171 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:10:30,171 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 80 embeddings into 2 clusters
+2025-08-06 19:10:30,171 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [57, 12]
+2025-08-06 19:10:30,171 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=7.572
+2025-08-06 19:10:30,172 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=3.799
+2025-08-06 19:10:30,172 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=3.599
+2025-08-06 19:10:30,173 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=3.569
+2025-08-06 19:10:30,173 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 6
+2025-08-06 19:10:30,173 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 47, 0: 33}
+2025-08-06 19:10:30,173 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 5/5
+2025-08-06 19:10:30,173 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:10:30,173 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 80 embeddings into 2 clusters
+2025-08-06 19:10:30,173 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [4, 70]
+2025-08-06 19:10:30,174 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=6.243
+2025-08-06 19:10:30,174 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=3.719
+2025-08-06 19:10:30,174 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=3.632
+2025-08-06 19:10:30,175 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=3.604
+2025-08-06 19:10:30,176 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 9
+2025-08-06 19:10:30,176 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 47, 0: 33}
+2025-08-06 19:10:30,296 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Saved analysis to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_initialization_sensitivity.png
+2025-08-06 19:10:30,390 - KMeansEngine - INFO - KMeansEngine.save_objective_plot: Saved plot to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_objective_function.png
+2025-08-06 19:10:31,119 - FaceClusteringModule - INFO - FaceClusteringModule.save_cluster_visualization: Saved visualization to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_cluster_visualization.png
+2025-08-06 19:11:01,173 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:11:01,173 - FaceClusteringModule - INFO - EXERCISE 5.3 - FaceClusteringModule LOGGER INITIALIZED
+2025-08-06 19:11:01,173 - FaceClusteringModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_3_clustering.log
+2025-08-06 19:11:01,174 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:11:01,174 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:01,174 - FaceClusteringModule - INFO - FaceClusteringModule.__init__: Initialized with k=2
+2025-08-06 19:11:01,401 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=1
+2025-08-06 19:11:01,811 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=2
+2025-08-06 19:11:01,953 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=3
+2025-08-06 19:11:02,083 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=4
+2025-08-06 19:11:02,216 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=5
+2025-08-06 19:11:02,347 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=6
+2025-08-06 19:11:02,485 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=7
+2025-08-06 19:11:02,622 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=8
+2025-08-06 19:11:02,759 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=9
+2025-08-06 19:11:02,897 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=10
+2025-08-06 19:11:03,027 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=11
+2025-08-06 19:11:03,158 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=12
+2025-08-06 19:11:03,291 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=13
+2025-08-06 19:11:03,421 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=14
+2025-08-06 19:11:03,552 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=15
+2025-08-06 19:11:03,691 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=16
+2025-08-06 19:11:03,819 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=17
+2025-08-06 19:11:03,950 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=18
+2025-08-06 19:11:04,078 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=19
+2025-08-06 19:11:04,209 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=20
+2025-08-06 19:11:04,340 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=21
+2025-08-06 19:11:04,474 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=22
+2025-08-06 19:11:04,607 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=23
+2025-08-06 19:11:04,741 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=24
+2025-08-06 19:11:04,873 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=25
+2025-08-06 19:11:05,011 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=26
+2025-08-06 19:11:05,141 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=27
+2025-08-06 19:11:05,271 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=28
+2025-08-06 19:11:05,402 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=29
+2025-08-06 19:11:05,527 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=30
+2025-08-06 19:11:05,671 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=31
+2025-08-06 19:11:05,804 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=32
+2025-08-06 19:11:05,929 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=33
+2025-08-06 19:11:06,063 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=34
+2025-08-06 19:11:06,192 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=35
+2025-08-06 19:11:06,335 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=36
+2025-08-06 19:11:06,902 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=37
+2025-08-06 19:11:07,034 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=38
+2025-08-06 19:11:07,173 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=39
+2025-08-06 19:11:07,303 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=40
+2025-08-06 19:11:07,436 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=41
+2025-08-06 19:11:07,566 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=42
+2025-08-06 19:11:07,709 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=43
+2025-08-06 19:11:07,847 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=44
+2025-08-06 19:11:07,978 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=45
+2025-08-06 19:11:08,110 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=46
+2025-08-06 19:11:08,238 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=47
+2025-08-06 19:11:08,376 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=48
+2025-08-06 19:11:08,519 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=49
+2025-08-06 19:11:08,648 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=50
+2025-08-06 19:11:08,777 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=51
+2025-08-06 19:11:08,907 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=52
+2025-08-06 19:11:09,037 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=53
+2025-08-06 19:11:09,166 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=54
+2025-08-06 19:11:09,299 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=55
+2025-08-06 19:11:09,434 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=56
+2025-08-06 19:11:09,566 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=57
+2025-08-06 19:11:09,696 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=58
+2025-08-06 19:11:09,826 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=59
+2025-08-06 19:11:09,966 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=60
+2025-08-06 19:11:10,095 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=61
+2025-08-06 19:11:10,233 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=62
+2025-08-06 19:11:10,367 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=63
+2025-08-06 19:11:10,508 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=64
+2025-08-06 19:11:10,636 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=65
+2025-08-06 19:11:10,772 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=66
+2025-08-06 19:11:10,913 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=67
+2025-08-06 19:11:11,044 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=68
+2025-08-06 19:11:11,184 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=69
+2025-08-06 19:11:11,314 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=70
+2025-08-06 19:11:11,447 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=71
+2025-08-06 19:11:11,581 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=72
+2025-08-06 19:11:11,713 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=73
+2025-08-06 19:11:11,855 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=74
+2025-08-06 19:11:11,990 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=75
+2025-08-06 19:11:12,118 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=76
+2025-08-06 19:11:12,257 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=77
+2025-08-06 19:11:12,388 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=78
+2025-08-06 19:11:12,517 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=79
+2025-08-06 19:11:12,660 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=80
+2025-08-06 19:11:12,770 - FaceClusteringModule - INFO - FaceClusteringModule.fit: Running k-means with 80 embeddings, k=2
+2025-08-06 19:11:12,771 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 80 embeddings into 2 clusters
+2025-08-06 19:11:12,771 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [6, 3]
+2025-08-06 19:11:12,772 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=7.017
+2025-08-06 19:11:12,772 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=3.630
+2025-08-06 19:11:12,773 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=3.599
+2025-08-06 19:11:12,775 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=3.569
+2025-08-06 19:11:12,775 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 6
+2025-08-06 19:11:12,775 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 47, 1: 33}
+2025-08-06 19:11:12,782 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 1/5
+2025-08-06 19:11:12,783 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:12,783 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 80 embeddings into 2 clusters
+2025-08-06 19:11:12,783 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [30, 0]
+2025-08-06 19:11:12,783 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=10.214
+2025-08-06 19:11:12,783 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=4.148
+2025-08-06 19:11:12,784 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=3.647
+2025-08-06 19:11:12,784 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 4
+2025-08-06 19:11:12,784 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 47, 1: 33}
+2025-08-06 19:11:12,787 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 2/5
+2025-08-06 19:11:12,787 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:12,787 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 80 embeddings into 2 clusters
+2025-08-06 19:11:12,787 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [29, 39]
+2025-08-06 19:11:12,787 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=8.726
+2025-08-06 19:11:12,788 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=4.187
+2025-08-06 19:11:12,788 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=4.140
+2025-08-06 19:11:12,789 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=3.905
+2025-08-06 19:11:12,789 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 8
+2025-08-06 19:11:12,789 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 47, 1: 33}
+2025-08-06 19:11:12,789 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 3/5
+2025-08-06 19:11:12,790 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:12,790 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 80 embeddings into 2 clusters
+2025-08-06 19:11:12,790 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [34, 25]
+2025-08-06 19:11:12,790 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=7.954
+2025-08-06 19:11:12,790 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=4.665
+2025-08-06 19:11:12,790 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=4.292
+2025-08-06 19:11:12,791 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=3.578
+2025-08-06 19:11:12,792 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 7
+2025-08-06 19:11:12,792 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 47, 0: 33}
+2025-08-06 19:11:12,792 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 4/5
+2025-08-06 19:11:12,792 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:12,792 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 80 embeddings into 2 clusters
+2025-08-06 19:11:12,792 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [57, 12]
+2025-08-06 19:11:12,792 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=7.572
+2025-08-06 19:11:12,793 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=3.799
+2025-08-06 19:11:12,793 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=3.599
+2025-08-06 19:11:12,794 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=3.569
+2025-08-06 19:11:12,794 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 6
+2025-08-06 19:11:12,794 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 47, 0: 33}
+2025-08-06 19:11:12,794 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 5/5
+2025-08-06 19:11:12,794 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:12,794 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 80 embeddings into 2 clusters
+2025-08-06 19:11:12,794 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [4, 70]
+2025-08-06 19:11:12,794 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=6.243
+2025-08-06 19:11:12,795 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=3.719
+2025-08-06 19:11:12,795 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=3.632
+2025-08-06 19:11:12,796 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=3.604
+2025-08-06 19:11:12,797 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 9
+2025-08-06 19:11:12,797 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 47, 0: 33}
+2025-08-06 19:11:12,915 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Saved analysis to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_initialization_sensitivity.png
+2025-08-06 19:11:13,011 - KMeansEngine - INFO - KMeansEngine.save_objective_plot: Saved plot to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_objective_function.png
+2025-08-06 19:11:13,296 - FaceClusteringModule - INFO - FaceClusteringModule.save_cluster_visualization: Saved visualization to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_cluster_visualization.png
+2025-08-06 19:11:17,010 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:11:17,010 - FaceClusteringModule - INFO - EXERCISE 5.3 - FaceClusteringModule LOGGER INITIALIZED
+2025-08-06 19:11:17,010 - FaceClusteringModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_3_clustering.log
+2025-08-06 19:11:17,010 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:11:17,010 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:17,010 - FaceClusteringModule - INFO - FaceClusteringModule.__init__: Initialized with k=2
+2025-08-06 19:11:17,254 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=1
+2025-08-06 19:11:17,743 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=2
+2025-08-06 19:11:17,804 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=3
+2025-08-06 19:11:17,933 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=4
+2025-08-06 19:11:18,063 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=5
+2025-08-06 19:11:18,200 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=6
+2025-08-06 19:11:18,334 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=7
+2025-08-06 19:11:18,470 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=8
+2025-08-06 19:11:18,513 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=9
+2025-08-06 19:11:18,656 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=10
+2025-08-06 19:11:18,788 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=11
+2025-08-06 19:11:18,930 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=12
+2025-08-06 19:11:19,066 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=13
+2025-08-06 19:11:19,203 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=14
+2025-08-06 19:11:19,337 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=15
+2025-08-06 19:11:19,475 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=16
+2025-08-06 19:11:19,616 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=17
+2025-08-06 19:11:19,750 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=18
+2025-08-06 19:11:19,880 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=19
+2025-08-06 19:11:20,007 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=20
+2025-08-06 19:11:20,147 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=21
+2025-08-06 19:11:20,276 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=22
+2025-08-06 19:11:20,415 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=23
+2025-08-06 19:11:20,553 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=24
+2025-08-06 19:11:20,698 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=25
+2025-08-06 19:11:20,837 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=26
+2025-08-06 19:11:20,976 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=27
+2025-08-06 19:11:21,107 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=28
+2025-08-06 19:11:21,236 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=29
+2025-08-06 19:11:21,365 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=30
+2025-08-06 19:11:21,494 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=31
+2025-08-06 19:11:21,622 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=32
+2025-08-06 19:11:21,748 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=33
+2025-08-06 19:11:21,877 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=34
+2025-08-06 19:11:22,004 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=35
+2025-08-06 19:11:22,133 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=36
+2025-08-06 19:11:23,328 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=37
+2025-08-06 19:11:23,460 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=38
+2025-08-06 19:11:23,591 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=39
+2025-08-06 19:11:23,731 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=40
+2025-08-06 19:11:23,858 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=41
+2025-08-06 19:11:23,985 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=42
+2025-08-06 19:11:24,123 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=43
+2025-08-06 19:11:24,263 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=44
+2025-08-06 19:11:24,390 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=45
+2025-08-06 19:11:24,529 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=46
+2025-08-06 19:11:24,666 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=47
+2025-08-06 19:11:24,810 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=48
+2025-08-06 19:11:24,946 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=49
+2025-08-06 19:11:25,076 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=50
+2025-08-06 19:11:25,207 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=51
+2025-08-06 19:11:25,340 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=52
+2025-08-06 19:11:25,471 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=53
+2025-08-06 19:11:25,605 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=54
+2025-08-06 19:11:25,738 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=55
+2025-08-06 19:11:25,878 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=56
+2025-08-06 19:11:26,010 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=57
+2025-08-06 19:11:26,110 - FaceClusteringModule - INFO - FaceClusteringModule.fit: Running k-means with 57 embeddings, k=2
+2025-08-06 19:11:26,111 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 57 embeddings into 2 clusters
+2025-08-06 19:11:26,111 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [26, 42]
+2025-08-06 19:11:26,111 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=6.581
+2025-08-06 19:11:26,112 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=3.567
+2025-08-06 19:11:26,112 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=3.529
+2025-08-06 19:11:26,113 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 4
+2025-08-06 19:11:26,113 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 44, 0: 13}
+2025-08-06 19:11:26,124 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 1/5
+2025-08-06 19:11:26,124 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:26,124 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 57 embeddings into 2 clusters
+2025-08-06 19:11:26,124 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [0, 5]
+2025-08-06 19:11:26,124 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=6.693
+2025-08-06 19:11:26,125 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=3.788
+2025-08-06 19:11:26,125 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=3.686
+2025-08-06 19:11:26,126 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=3.528
+2025-08-06 19:11:26,127 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 7
+2025-08-06 19:11:26,127 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 44, 1: 13}
+2025-08-06 19:11:26,130 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 2/5
+2025-08-06 19:11:26,130 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:26,130 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 57 embeddings into 2 clusters
+2025-08-06 19:11:26,130 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [49, 52]
+2025-08-06 19:11:26,131 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=8.219
+2025-08-06 19:11:26,131 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=3.941
+2025-08-06 19:11:26,131 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=3.679
+2025-08-06 19:11:26,132 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=3.520
+2025-08-06 19:11:26,132 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 6
+2025-08-06 19:11:26,132 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 44, 0: 13}
+2025-08-06 19:11:26,133 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 3/5
+2025-08-06 19:11:26,133 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:26,133 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 57 embeddings into 2 clusters
+2025-08-06 19:11:26,133 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [16, 13]
+2025-08-06 19:11:26,133 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=9.462
+2025-08-06 19:11:26,133 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=3.954
+2025-08-06 19:11:26,134 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=3.697
+2025-08-06 19:11:26,135 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=3.625
+2025-08-06 19:11:26,135 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 7
+2025-08-06 19:11:26,135 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 19, 1: 38}
+2025-08-06 19:11:26,135 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 4/5
+2025-08-06 19:11:26,135 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:26,135 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 57 embeddings into 2 clusters
+2025-08-06 19:11:26,135 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [21, 41]
+2025-08-06 19:11:26,136 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=6.413
+2025-08-06 19:11:26,136 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=4.028
+2025-08-06 19:11:26,136 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=3.820
+2025-08-06 19:11:26,137 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=3.529
+2025-08-06 19:11:26,137 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 7
+2025-08-06 19:11:26,137 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 44, 1: 13}
+2025-08-06 19:11:26,138 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 5/5
+2025-08-06 19:11:26,138 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:26,138 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 57 embeddings into 2 clusters
+2025-08-06 19:11:26,138 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [29, 46]
+2025-08-06 19:11:26,138 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=6.424
+2025-08-06 19:11:26,138 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=4.080
+2025-08-06 19:11:26,139 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=4.041
+2025-08-06 19:11:26,139 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=3.999
+2025-08-06 19:11:26,141 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 10
+2025-08-06 19:11:26,141 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 35, 0: 22}
+2025-08-06 19:11:26,252 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Saved analysis to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_initialization_sensitivity.png
+2025-08-06 19:11:26,347 - KMeansEngine - INFO - KMeansEngine.save_objective_plot: Saved plot to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_objective_function.png
+2025-08-06 19:11:26,627 - FaceClusteringModule - INFO - FaceClusteringModule.save_cluster_visualization: Saved visualization to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_cluster_visualization.png
+2025-08-06 19:11:30,364 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:11:30,364 - FaceClusteringModule - INFO - EXERCISE 5.3 - FaceClusteringModule LOGGER INITIALIZED
+2025-08-06 19:11:30,364 - FaceClusteringModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_3_clustering.log
+2025-08-06 19:11:30,364 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:11:30,364 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:30,364 - FaceClusteringModule - INFO - FaceClusteringModule.__init__: Initialized with k=2
+2025-08-06 19:11:30,676 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=1
+2025-08-06 19:11:31,116 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=2
+2025-08-06 19:11:31,258 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=3
+2025-08-06 19:11:31,403 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=4
+2025-08-06 19:11:31,544 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=5
+2025-08-06 19:11:31,683 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=6
+2025-08-06 19:11:31,817 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=7
+2025-08-06 19:11:31,947 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=8
+2025-08-06 19:11:32,076 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=9
+2025-08-06 19:11:32,208 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=10
+2025-08-06 19:11:32,340 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=11
+2025-08-06 19:11:32,484 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=12
+2025-08-06 19:11:32,615 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=13
+2025-08-06 19:11:32,757 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=14
+2025-08-06 19:11:32,886 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=15
+2025-08-06 19:11:33,017 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=16
+2025-08-06 19:11:33,152 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=17
+2025-08-06 19:11:33,286 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=18
+2025-08-06 19:11:33,419 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=19
+2025-08-06 19:11:33,554 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=20
+2025-08-06 19:11:33,683 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=21
+2025-08-06 19:11:33,816 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=22
+2025-08-06 19:11:33,945 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=23
+2025-08-06 19:11:34,076 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=24
+2025-08-06 19:11:34,211 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=25
+2025-08-06 19:11:34,355 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=26
+2025-08-06 19:11:34,487 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=27
+2025-08-06 19:11:34,618 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=28
+2025-08-06 19:11:34,758 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=29
+2025-08-06 19:11:34,886 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=30
+2025-08-06 19:11:35,027 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=31
+2025-08-06 19:11:35,156 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=32
+2025-08-06 19:11:35,293 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=33
+2025-08-06 19:11:35,419 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=34
+2025-08-06 19:11:35,547 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=35
+2025-08-06 19:11:35,687 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=36
+2025-08-06 19:11:36,528 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=37
+2025-08-06 19:11:36,660 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=38
+2025-08-06 19:11:36,801 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=39
+2025-08-06 19:11:36,941 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=40
+2025-08-06 19:11:37,078 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=41
+2025-08-06 19:11:37,208 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=42
+2025-08-06 19:11:37,342 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=43
+2025-08-06 19:11:37,475 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=44
+2025-08-06 19:11:37,608 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=45
+2025-08-06 19:11:37,741 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=46
+2025-08-06 19:11:37,873 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=47
+2025-08-06 19:11:38,003 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=48
+2025-08-06 19:11:38,139 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=49
+2025-08-06 19:11:38,267 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=50
+2025-08-06 19:11:38,404 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=51
+2025-08-06 19:11:38,545 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=52
+2025-08-06 19:11:38,681 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=53
+2025-08-06 19:11:38,811 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=54
+2025-08-06 19:11:38,938 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=55
+2025-08-06 19:11:39,078 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=56
+2025-08-06 19:11:39,210 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=57
+2025-08-06 19:11:39,356 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=58
+2025-08-06 19:11:39,498 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=59
+2025-08-06 19:11:39,642 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=60
+2025-08-06 19:11:39,775 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=61
+2025-08-06 19:11:39,886 - FaceClusteringModule - INFO - FaceClusteringModule.fit: Running k-means with 61 embeddings, k=2
+2025-08-06 19:11:39,886 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 61 embeddings into 2 clusters
+2025-08-06 19:11:39,886 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [53, 20]
+2025-08-06 19:11:39,886 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=13.306
+2025-08-06 19:11:39,887 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=6.728
+2025-08-06 19:11:39,887 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=5.967
+2025-08-06 19:11:39,888 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 5
+2025-08-06 19:11:39,888 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 38, 1: 23}
+2025-08-06 19:11:39,897 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 1/5
+2025-08-06 19:11:39,897 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:39,897 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 61 embeddings into 2 clusters
+2025-08-06 19:11:39,897 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [0, 5]
+2025-08-06 19:11:39,897 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=11.889
+2025-08-06 19:11:39,898 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=6.472
+2025-08-06 19:11:39,898 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=5.593
+2025-08-06 19:11:39,899 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=4.954
+2025-08-06 19:11:39,899 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 6
+2025-08-06 19:11:39,899 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 38, 1: 23}
+2025-08-06 19:11:39,902 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 2/5
+2025-08-06 19:11:39,902 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:39,902 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 61 embeddings into 2 clusters
+2025-08-06 19:11:39,902 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [47, 54]
+2025-08-06 19:11:39,902 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=11.889
+2025-08-06 19:11:39,903 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=5.706
+2025-08-06 19:11:39,903 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=5.423
+2025-08-06 19:11:39,903 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 5
+2025-08-06 19:11:39,903 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 38, 0: 23}
+2025-08-06 19:11:39,904 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 3/5
+2025-08-06 19:11:39,904 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:39,904 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 61 embeddings into 2 clusters
+2025-08-06 19:11:39,904 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [26, 36]
+2025-08-06 19:11:39,904 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=8.235
+2025-08-06 19:11:39,904 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=4.954
+2025-08-06 19:11:39,904 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 2
+2025-08-06 19:11:39,904 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 38, 0: 23}
+2025-08-06 19:11:39,905 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 4/5
+2025-08-06 19:11:39,905 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:39,905 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 61 embeddings into 2 clusters
+2025-08-06 19:11:39,905 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [4, 24]
+2025-08-06 19:11:39,905 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=13.688
+2025-08-06 19:11:39,905 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=6.695
+2025-08-06 19:11:39,906 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=6.315
+2025-08-06 19:11:39,906 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=5.278
+2025-08-06 19:11:39,908 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 11/100, objective=4.993
+2025-08-06 19:11:39,908 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 12
+2025-08-06 19:11:39,908 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 38, 0: 23}
+2025-08-06 19:11:39,908 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 5/5
+2025-08-06 19:11:39,908 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:39,908 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 61 embeddings into 2 clusters
+2025-08-06 19:11:39,908 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [41, 31]
+2025-08-06 19:11:39,909 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=11.303
+2025-08-06 19:11:39,909 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=5.306
+2025-08-06 19:11:39,909 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=5.038
+2025-08-06 19:11:39,910 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 5
+2025-08-06 19:11:39,910 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 38, 1: 23}
+2025-08-06 19:11:40,019 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Saved analysis to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_initialization_sensitivity.png
+2025-08-06 19:11:40,112 - KMeansEngine - INFO - KMeansEngine.save_objective_plot: Saved plot to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_objective_function.png
+2025-08-06 19:11:40,399 - FaceClusteringModule - INFO - FaceClusteringModule.save_cluster_visualization: Saved visualization to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_cluster_visualization.png
+2025-08-06 19:11:44,162 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:11:44,162 - FaceClusteringModule - INFO - EXERCISE 5.3 - FaceClusteringModule LOGGER INITIALIZED
+2025-08-06 19:11:44,163 - FaceClusteringModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_3_clustering.log
+2025-08-06 19:11:44,163 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:11:44,163 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:44,163 - FaceClusteringModule - INFO - FaceClusteringModule.__init__: Initialized with k=2
+2025-08-06 19:11:44,473 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=1
+2025-08-06 19:11:44,896 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=2
+2025-08-06 19:11:45,038 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=3
+2025-08-06 19:11:45,171 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=4
+2025-08-06 19:11:45,305 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=5
+2025-08-06 19:11:45,438 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=6
+2025-08-06 19:11:45,568 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=7
+2025-08-06 19:11:45,701 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=8
+2025-08-06 19:11:45,836 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=9
+2025-08-06 19:11:45,970 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=10
+2025-08-06 19:11:46,113 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=11
+2025-08-06 19:11:46,241 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=12
+2025-08-06 19:11:46,369 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=13
+2025-08-06 19:11:46,500 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=14
+2025-08-06 19:11:46,641 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=15
+2025-08-06 19:11:46,778 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=16
+2025-08-06 19:11:46,907 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=17
+2025-08-06 19:11:47,047 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=18
+2025-08-06 19:11:47,178 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=19
+2025-08-06 19:11:47,307 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=20
+2025-08-06 19:11:47,440 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=21
+2025-08-06 19:11:47,576 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=22
+2025-08-06 19:11:47,705 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=23
+2025-08-06 19:11:47,835 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=24
+2025-08-06 19:11:47,967 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=25
+2025-08-06 19:11:48,098 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=26
+2025-08-06 19:11:48,230 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=27
+2025-08-06 19:11:48,359 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=28
+2025-08-06 19:11:48,493 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=29
+2025-08-06 19:11:48,625 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=30
+2025-08-06 19:11:48,754 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=31
+2025-08-06 19:11:48,884 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=32
+2025-08-06 19:11:49,018 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=33
+2025-08-06 19:11:49,151 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=34
+2025-08-06 19:11:49,283 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=35
+2025-08-06 19:11:49,414 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=36
+2025-08-06 19:11:50,116 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=37
+2025-08-06 19:11:50,246 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=38
+2025-08-06 19:11:50,387 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=39
+2025-08-06 19:11:50,516 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=40
+2025-08-06 19:11:50,642 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=41
+2025-08-06 19:11:50,770 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=42
+2025-08-06 19:11:50,899 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=43
+2025-08-06 19:11:51,039 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=44
+2025-08-06 19:11:51,169 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=45
+2025-08-06 19:11:51,301 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=46
+2025-08-06 19:11:51,443 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=47
+2025-08-06 19:11:51,585 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=48
+2025-08-06 19:11:51,718 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=49
+2025-08-06 19:11:51,852 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=50
+2025-08-06 19:11:51,963 - FaceClusteringModule - INFO - FaceClusteringModule.fit: Running k-means with 50 embeddings, k=2
+2025-08-06 19:11:51,963 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 50 embeddings into 2 clusters
+2025-08-06 19:11:51,963 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [40, 28]
+2025-08-06 19:11:51,963 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=3.988
+2025-08-06 19:11:51,964 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=2.099
+2025-08-06 19:11:51,964 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 2
+2025-08-06 19:11:51,964 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 17, 1: 33}
+2025-08-06 19:11:51,974 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 1/5
+2025-08-06 19:11:51,974 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:51,974 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 50 embeddings into 2 clusters
+2025-08-06 19:11:51,974 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [13, 39]
+2025-08-06 19:11:51,975 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=5.249
+2025-08-06 19:11:51,975 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=2.446
+2025-08-06 19:11:51,975 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=2.329
+2025-08-06 19:11:51,976 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=2.099
+2025-08-06 19:11:51,976 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 6
+2025-08-06 19:11:51,976 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 17, 0: 33}
+2025-08-06 19:11:51,980 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 2/5
+2025-08-06 19:11:51,980 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:51,980 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 50 embeddings into 2 clusters
+2025-08-06 19:11:51,980 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [30, 33]
+2025-08-06 19:11:51,980 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=5.322
+2025-08-06 19:11:51,980 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=2.148
+2025-08-06 19:11:51,981 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=2.112
+2025-08-06 19:11:51,981 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 4
+2025-08-06 19:11:51,981 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 15, 0: 35}
+2025-08-06 19:11:51,981 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 3/5
+2025-08-06 19:11:51,981 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:51,981 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 50 embeddings into 2 clusters
+2025-08-06 19:11:51,981 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [35, 16]
+2025-08-06 19:11:51,982 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=3.824
+2025-08-06 19:11:51,982 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=2.183
+2025-08-06 19:11:51,982 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=2.129
+2025-08-06 19:11:51,983 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 5
+2025-08-06 19:11:51,983 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 15, 1: 35}
+2025-08-06 19:11:51,983 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 4/5
+2025-08-06 19:11:51,983 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:51,983 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 50 embeddings into 2 clusters
+2025-08-06 19:11:51,983 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [6, 36]
+2025-08-06 19:11:51,983 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=5.125
+2025-08-06 19:11:51,984 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=2.962
+2025-08-06 19:11:51,984 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=2.915
+2025-08-06 19:11:51,985 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=2.105
+2025-08-06 19:11:51,985 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 6
+2025-08-06 19:11:51,985 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 15, 1: 35}
+2025-08-06 19:11:51,985 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 5/5
+2025-08-06 19:11:51,985 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:51,985 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 50 embeddings into 2 clusters
+2025-08-06 19:11:51,985 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [14, 41]
+2025-08-06 19:11:51,985 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=5.403
+2025-08-06 19:11:51,986 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=2.886
+2025-08-06 19:11:51,986 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=2.341
+2025-08-06 19:11:51,986 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 5
+2025-08-06 19:11:51,986 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 17, 0: 33}
+2025-08-06 19:11:52,106 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Saved analysis to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_initialization_sensitivity.png
+2025-08-06 19:11:52,201 - KMeansEngine - INFO - KMeansEngine.save_objective_plot: Saved plot to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_objective_function.png
+2025-08-06 19:11:52,487 - FaceClusteringModule - INFO - FaceClusteringModule.save_cluster_visualization: Saved visualization to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_cluster_visualization.png
+2025-08-06 19:11:56,181 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:11:56,181 - FaceClusteringModule - INFO - EXERCISE 5.3 - FaceClusteringModule LOGGER INITIALIZED
+2025-08-06 19:11:56,181 - FaceClusteringModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_3_clustering.log
+2025-08-06 19:11:56,181 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:11:56,181 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:11:56,181 - FaceClusteringModule - INFO - FaceClusteringModule.__init__: Initialized with k=2
+2025-08-06 19:11:56,502 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=1
+2025-08-06 19:11:56,991 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=2
+2025-08-06 19:11:57,123 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=3
+2025-08-06 19:11:57,255 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=4
+2025-08-06 19:11:57,392 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=5
+2025-08-06 19:11:57,526 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=6
+2025-08-06 19:11:57,664 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=7
+2025-08-06 19:11:57,806 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=8
+2025-08-06 19:11:57,936 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=9
+2025-08-06 19:11:58,068 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=10
+2025-08-06 19:11:58,203 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=11
+2025-08-06 19:11:58,337 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=12
+2025-08-06 19:11:58,472 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=13
+2025-08-06 19:11:58,602 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=14
+2025-08-06 19:11:58,740 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=15
+2025-08-06 19:11:58,869 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=16
+2025-08-06 19:11:59,008 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=17
+2025-08-06 19:11:59,137 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=18
+2025-08-06 19:11:59,274 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=19
+2025-08-06 19:11:59,405 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=20
+2025-08-06 19:11:59,537 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=21
+2025-08-06 19:11:59,670 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=22
+2025-08-06 19:11:59,801 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=23
+2025-08-06 19:11:59,942 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=24
+2025-08-06 19:12:00,072 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=25
+2025-08-06 19:12:00,215 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=26
+2025-08-06 19:12:00,347 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=27
+2025-08-06 19:12:00,478 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=28
+2025-08-06 19:12:00,612 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=29
+2025-08-06 19:12:00,749 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=30
+2025-08-06 19:12:00,879 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=31
+2025-08-06 19:12:01,020 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=32
+2025-08-06 19:12:01,154 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=33
+2025-08-06 19:12:01,291 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=34
+2025-08-06 19:12:01,421 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=35
+2025-08-06 19:12:01,552 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=36
+2025-08-06 19:12:02,769 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=37
+2025-08-06 19:12:02,899 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=38
+2025-08-06 19:12:03,029 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=39
+2025-08-06 19:12:03,164 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=40
+2025-08-06 19:12:03,296 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=41
+2025-08-06 19:12:03,430 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=42
+2025-08-06 19:12:03,556 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=43
+2025-08-06 19:12:03,686 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=44
+2025-08-06 19:12:03,815 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=45
+2025-08-06 19:12:03,944 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=46
+2025-08-06 19:12:04,077 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=47
+2025-08-06 19:12:04,210 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=48
+2025-08-06 19:12:04,344 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=49
+2025-08-06 19:12:04,474 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=50
+2025-08-06 19:12:04,606 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=51
+2025-08-06 19:12:04,741 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=52
+2025-08-06 19:12:04,884 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=53
+2025-08-06 19:12:05,025 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=54
+2025-08-06 19:12:05,174 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=55
+2025-08-06 19:12:05,309 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=56
+2025-08-06 19:12:05,436 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=57
+2025-08-06 19:12:05,579 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=58
+2025-08-06 19:12:05,710 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=59
+2025-08-06 19:12:05,839 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=60
+2025-08-06 19:12:05,970 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=61
+2025-08-06 19:12:06,099 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=62
+2025-08-06 19:12:06,232 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=63
+2025-08-06 19:12:06,361 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=64
+2025-08-06 19:12:06,489 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=65
+2025-08-06 19:12:06,618 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=66
+2025-08-06 19:12:06,750 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=67
+2025-08-06 19:12:06,891 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=68
+2025-08-06 19:12:07,018 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=69
+2025-08-06 19:12:07,148 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=70
+2025-08-06 19:12:07,283 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=71
+2025-08-06 19:12:07,416 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=72
+2025-08-06 19:12:07,546 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=73
+2025-08-06 19:12:07,684 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=74
+2025-08-06 19:12:07,818 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=75
+2025-08-06 19:12:07,918 - FaceClusteringModule - INFO - FaceClusteringModule.fit: Running k-means with 75 embeddings, k=2
+2025-08-06 19:12:07,918 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 75 embeddings into 2 clusters
+2025-08-06 19:12:07,918 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [31, 55]
+2025-08-06 19:12:07,919 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=9.723
+2025-08-06 19:12:07,919 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=6.264
+2025-08-06 19:12:07,919 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=6.076
+2025-08-06 19:12:07,920 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=5.960
+2025-08-06 19:12:07,920 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 6
+2025-08-06 19:12:07,920 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 53, 1: 22}
+2025-08-06 19:12:07,927 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 1/5
+2025-08-06 19:12:07,927 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:12:07,927 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 75 embeddings into 2 clusters
+2025-08-06 19:12:07,927 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [4, 63]
+2025-08-06 19:12:07,927 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=11.250
+2025-08-06 19:12:07,928 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=6.437
+2025-08-06 19:12:07,928 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=6.261
+2025-08-06 19:12:07,929 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=6.149
+2025-08-06 19:12:07,930 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 11/100, objective=5.960
+2025-08-06 19:12:07,930 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 11
+2025-08-06 19:12:07,930 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 53, 0: 22}
+2025-08-06 19:12:07,934 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 2/5
+2025-08-06 19:12:07,934 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:12:07,934 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 75 embeddings into 2 clusters
+2025-08-06 19:12:07,934 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [51, 50]
+2025-08-06 19:12:07,934 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=10.507
+2025-08-06 19:12:07,935 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=6.509
+2025-08-06 19:12:07,935 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=6.489
+2025-08-06 19:12:07,935 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 3
+2025-08-06 19:12:07,935 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 67, 1: 8}
+2025-08-06 19:12:07,935 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 3/5
+2025-08-06 19:12:07,935 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:12:07,935 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 75 embeddings into 2 clusters
+2025-08-06 19:12:07,936 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [67, 33]
+2025-08-06 19:12:07,936 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=12.190
+2025-08-06 19:12:07,936 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=6.497
+2025-08-06 19:12:07,937 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=6.342
+2025-08-06 19:12:07,938 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=5.962
+2025-08-06 19:12:07,939 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 8
+2025-08-06 19:12:07,939 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 47, 0: 28}
+2025-08-06 19:12:07,939 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 4/5
+2025-08-06 19:12:07,939 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:12:07,939 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 75 embeddings into 2 clusters
+2025-08-06 19:12:07,939 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [52, 12]
+2025-08-06 19:12:07,940 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=11.691
+2025-08-06 19:12:07,940 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=6.245
+2025-08-06 19:12:07,941 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=6.070
+2025-08-06 19:12:07,942 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=5.912
+2025-08-06 19:12:07,942 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 6
+2025-08-06 19:12:07,942 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 47, 0: 28}
+2025-08-06 19:12:07,942 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 5/5
+2025-08-06 19:12:07,942 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:12:07,942 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 75 embeddings into 2 clusters
+2025-08-06 19:12:07,942 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [16, 68]
+2025-08-06 19:12:07,943 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=11.967
+2025-08-06 19:12:07,943 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=6.439
+2025-08-06 19:12:07,943 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=6.254
+2025-08-06 19:12:07,944 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=5.962
+2025-08-06 19:12:07,945 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 8
+2025-08-06 19:12:07,945 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 47, 1: 28}
+2025-08-06 19:12:08,059 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Saved analysis to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_initialization_sensitivity.png
+2025-08-06 19:12:08,153 - KMeansEngine - INFO - KMeansEngine.save_objective_plot: Saved plot to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_objective_function.png
+2025-08-06 19:12:08,435 - FaceClusteringModule - INFO - FaceClusteringModule.save_cluster_visualization: Saved visualization to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_cluster_visualization.png
+2025-08-06 19:13:04,898 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:13:04,898 - FaceClusteringModule - INFO - EXERCISE 5.3 - FaceClusteringModule LOGGER INITIALIZED
+2025-08-06 19:13:04,898 - FaceClusteringModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_3_clustering.log
+2025-08-06 19:13:04,898 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:13:04,898 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:13:04,898 - FaceClusteringModule - INFO - FaceClusteringModule.__init__: Initialized with k=2
+2025-08-06 19:13:46,516 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:13:46,516 - FaceClusteringModule - INFO - EXERCISE 5.3 - FaceClusteringModule LOGGER INITIALIZED
+2025-08-06 19:13:46,516 - FaceClusteringModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_3_clustering.log
+2025-08-06 19:13:46,516 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:13:46,516 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:13:46,516 - FaceClusteringModule - INFO - FaceClusteringModule.__init__: Initialized with k=2
+2025-08-06 19:14:01,038 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:14:01,038 - FaceClusteringModule - INFO - EXERCISE 5.3 - FaceClusteringModule LOGGER INITIALIZED
+2025-08-06 19:14:01,038 - FaceClusteringModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_3_clustering.log
+2025-08-06 19:14:01,038 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:14:01,038 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:14:01,038 - FaceClusteringModule - INFO - FaceClusteringModule.__init__: Initialized with k=2
+2025-08-06 19:14:15,533 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:14:15,533 - FaceClusteringModule - INFO - EXERCISE 5.3 - FaceClusteringModule LOGGER INITIALIZED
+2025-08-06 19:14:15,533 - FaceClusteringModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_3_clustering.log
+2025-08-06 19:14:15,533 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:14:15,534 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:14:15,534 - FaceClusteringModule - INFO - FaceClusteringModule.__init__: Initialized with k=2
+2025-08-06 19:14:28,269 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:14:28,269 - FaceClusteringModule - INFO - EXERCISE 5.3 - FaceClusteringModule LOGGER INITIALIZED
+2025-08-06 19:14:28,269 - FaceClusteringModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_3_clustering.log
+2025-08-06 19:14:28,270 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:14:28,270 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:14:28,270 - FaceClusteringModule - INFO - FaceClusteringModule.__init__: Initialized with k=2
+2025-08-06 19:15:09,715 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:15:09,715 - FaceClusteringModule - INFO - EXERCISE 5.3 - FaceClusteringModule LOGGER INITIALIZED
+2025-08-06 19:15:09,715 - FaceClusteringModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_3_clustering.log
+2025-08-06 19:15:09,715 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:15:09,715 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:15:09,715 - FaceClusteringModule - INFO - FaceClusteringModule.__init__: Initialized with k=2
+2025-08-06 19:16:54,887 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:16:54,887 - FaceClusteringModule - INFO - EXERCISE 5.3 - FaceClusteringModule LOGGER INITIALIZED
+2025-08-06 19:16:54,887 - FaceClusteringModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_3_clustering.log
+2025-08-06 19:16:54,887 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:16:54,888 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:16:54,888 - FaceClusteringModule - INFO - FaceClusteringModule.__init__: Initialized with k=2
+2025-08-06 19:43:40,733 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:43:40,733 - FaceClusteringModule - INFO - EXERCISE 5.3 - FaceClusteringModule LOGGER INITIALIZED
+2025-08-06 19:43:40,733 - FaceClusteringModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_3_clustering.log
+2025-08-06 19:43:40,733 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:43:40,733 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:43:40,733 - FaceClusteringModule - INFO - FaceClusteringModule.__init__: Initialized with k=2
+2025-08-06 19:44:46,391 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:44:46,392 - FaceClusteringModule - INFO - EXERCISE 5.3 - FaceClusteringModule LOGGER INITIALIZED
+2025-08-06 19:44:46,392 - FaceClusteringModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_3_clustering.log
+2025-08-06 19:44:46,392 - FaceClusteringModule - INFO - ================================================================================
+2025-08-06 19:44:46,392 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:44:46,392 - FaceClusteringModule - INFO - FaceClusteringModule.__init__: Initialized with k=2
+2025-08-06 19:44:46,688 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=1
+2025-08-06 19:44:47,093 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=2
+2025-08-06 19:44:47,234 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=3
+2025-08-06 19:44:47,363 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=4
+2025-08-06 19:44:47,500 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=5
+2025-08-06 19:44:47,627 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=6
+2025-08-06 19:44:47,758 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=7
+2025-08-06 19:44:47,888 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=8
+2025-08-06 19:44:48,022 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=9
+2025-08-06 19:44:48,151 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=10
+2025-08-06 19:44:48,283 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=11
+2025-08-06 19:44:48,422 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=12
+2025-08-06 19:44:48,563 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=13
+2025-08-06 19:44:48,693 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=14
+2025-08-06 19:44:48,826 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=15
+2025-08-06 19:44:48,968 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=16
+2025-08-06 19:44:49,099 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=17
+2025-08-06 19:44:49,233 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=18
+2025-08-06 19:44:49,364 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=19
+2025-08-06 19:44:49,495 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=20
+2025-08-06 19:44:49,626 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=21
+2025-08-06 19:44:49,756 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=22
+2025-08-06 19:44:49,886 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=23
+2025-08-06 19:44:50,031 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=24
+2025-08-06 19:44:50,173 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=25
+2025-08-06 19:44:50,309 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=26
+2025-08-06 19:44:50,439 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=27
+2025-08-06 19:44:50,579 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=28
+2025-08-06 19:44:50,713 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=29
+2025-08-06 19:44:50,857 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=30
+2025-08-06 19:44:50,987 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=31
+2025-08-06 19:44:51,114 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=32
+2025-08-06 19:44:51,249 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=33
+2025-08-06 19:44:51,389 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=34
+2025-08-06 19:44:51,527 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=35
+2025-08-06 19:44:51,656 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=36
+2025-08-06 19:44:52,216 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=37
+2025-08-06 19:44:52,344 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=38
+2025-08-06 19:44:52,471 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=39
+2025-08-06 19:44:52,603 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=40
+2025-08-06 19:44:52,734 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=41
+2025-08-06 19:44:52,864 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=42
+2025-08-06 19:44:52,994 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=43
+2025-08-06 19:44:53,128 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=44
+2025-08-06 19:44:53,256 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=45
+2025-08-06 19:44:53,395 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=46
+2025-08-06 19:44:53,536 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=47
+2025-08-06 19:44:53,680 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=48
+2025-08-06 19:44:53,822 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=49
+2025-08-06 19:44:53,951 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=50
+2025-08-06 19:44:54,082 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=51
+2025-08-06 19:44:54,228 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=52
+2025-08-06 19:44:54,356 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=53
+2025-08-06 19:44:54,497 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=54
+2025-08-06 19:44:54,628 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=55
+2025-08-06 19:44:54,759 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=56
+2025-08-06 19:44:54,901 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=57
+2025-08-06 19:44:55,039 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=58
+2025-08-06 19:44:55,168 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=59
+2025-08-06 19:44:55,305 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=60
+2025-08-06 19:44:55,442 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=61
+2025-08-06 19:44:55,571 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=62
+2025-08-06 19:44:55,701 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=63
+2025-08-06 19:44:55,836 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=64
+2025-08-06 19:44:55,979 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=65
+2025-08-06 19:44:56,110 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=66
+2025-08-06 19:44:56,250 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=67
+2025-08-06 19:44:56,392 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=68
+2025-08-06 19:44:56,533 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=69
+2025-08-06 19:44:56,672 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=70
+2025-08-06 19:44:56,814 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=71
+2025-08-06 19:44:56,956 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=72
+2025-08-06 19:44:57,090 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=73
+2025-08-06 19:44:57,220 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=74
+2025-08-06 19:44:57,351 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=75
+2025-08-06 19:44:57,481 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=76
+2025-08-06 19:44:57,623 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=77
+2025-08-06 19:44:57,753 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=78
+2025-08-06 19:44:57,883 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=79
+2025-08-06 19:44:58,015 - FaceClusteringModule - DEBUG - FaceClusteringModule.partial_fit: Added embedding, total=80
+2025-08-06 19:44:58,116 - FaceClusteringModule - INFO - FaceClusteringModule.fit: Running k-means with 80 embeddings, k=2
+2025-08-06 19:44:58,116 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 80 embeddings into 2 clusters
+2025-08-06 19:44:58,116 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [50, 26]
+2025-08-06 19:44:58,117 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=7.297
+2025-08-06 19:44:58,118 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=3.672
+2025-08-06 19:44:58,118 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=3.616
+2025-08-06 19:44:58,119 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=3.578
+2025-08-06 19:44:58,120 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 7
+2025-08-06 19:44:58,120 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 47, 1: 33}
+2025-08-06 19:44:58,129 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 1/5
+2025-08-06 19:44:58,130 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:44:58,130 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 80 embeddings into 2 clusters
+2025-08-06 19:44:58,130 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [30, 0]
+2025-08-06 19:44:58,130 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=10.214
+2025-08-06 19:44:58,131 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=4.148
+2025-08-06 19:44:58,131 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=3.647
+2025-08-06 19:44:58,132 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 4
+2025-08-06 19:44:58,132 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 47, 1: 33}
+2025-08-06 19:44:58,135 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 2/5
+2025-08-06 19:44:58,135 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:44:58,135 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 80 embeddings into 2 clusters
+2025-08-06 19:44:58,135 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [29, 39]
+2025-08-06 19:44:58,136 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=8.726
+2025-08-06 19:44:58,136 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=4.187
+2025-08-06 19:44:58,136 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=4.140
+2025-08-06 19:44:58,137 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=3.905
+2025-08-06 19:44:58,138 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 8
+2025-08-06 19:44:58,138 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={0: 47, 1: 33}
+2025-08-06 19:44:58,138 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 3/5
+2025-08-06 19:44:58,139 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:44:58,139 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 80 embeddings into 2 clusters
+2025-08-06 19:44:58,139 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [34, 25]
+2025-08-06 19:44:58,139 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=7.954
+2025-08-06 19:44:58,139 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=4.665
+2025-08-06 19:44:58,140 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=4.292
+2025-08-06 19:44:58,141 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=3.578
+2025-08-06 19:44:58,141 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 7
+2025-08-06 19:44:58,141 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 47, 0: 33}
+2025-08-06 19:44:58,141 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 4/5
+2025-08-06 19:44:58,141 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:44:58,142 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 80 embeddings into 2 clusters
+2025-08-06 19:44:58,142 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [57, 12]
+2025-08-06 19:44:58,142 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=7.572
+2025-08-06 19:44:58,142 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=3.799
+2025-08-06 19:44:58,143 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=3.599
+2025-08-06 19:44:58,144 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=3.569
+2025-08-06 19:44:58,144 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 6
+2025-08-06 19:44:58,144 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 47, 0: 33}
+2025-08-06 19:44:58,144 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Run 5/5
+2025-08-06 19:44:58,144 - KMeansEngine - INFO - KMeansEngine.__init__: k=2, max_iter=100, tolerance=0.0001
+2025-08-06 19:44:58,144 - KMeansEngine - INFO - KMeansEngine.forward: Clustering 80 embeddings into 2 clusters
+2025-08-06 19:44:58,144 - KMeansEngine - DEBUG - KMeansEngine.forward: Initialized centers from indices: [4, 70]
+2025-08-06 19:44:58,145 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 1/100, objective=6.243
+2025-08-06 19:44:58,145 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 2/100, objective=3.719
+2025-08-06 19:44:58,145 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 3/100, objective=3.632
+2025-08-06 19:44:58,146 - KMeansEngine - DEBUG - KMeansEngine.forward: Iteration 6/100, objective=3.604
+2025-08-06 19:44:58,147 - KMeansEngine - INFO - KMeansEngine.forward: Converged at iteration 9
+2025-08-06 19:44:58,147 - KMeansEngine - INFO - KMeansEngine.forward: Final cluster sizes={1: 47, 0: 33}
+2025-08-06 19:44:58,265 - FaceClusteringModule - INFO - FaceClusteringModule.save_convergence_analysis: Saved analysis to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_initialization_sensitivity.png
+2025-08-06 19:44:58,361 - KMeansEngine - INFO - KMeansEngine.save_objective_plot: Saved plot to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_objective_function.png
+2025-08-06 19:44:58,651 - FaceClusteringModule - INFO - FaceClusteringModule.save_cluster_visualization: Saved visualization to /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/figures/exercise_5_3_cluster_visualization.png

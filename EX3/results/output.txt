@@ -1,0 +1,282 @@
+[INFO] Using 8 CPU cores for parallel processing
+
+================================================================================
+[INFO] Processing image 1/9: adoration1.jpg
+[INFO] Full path: ../data/arthist/adoration1.jpg
+[INFO] Image shape: (720, 711, 3)
+[Stage 1/6] Segmenting image...
+[Stage 1/6] ✓ Segmentation complete: 439 segments in 1.9s
+[Stage 2/6] Extracting regions...
+[Stage 2/6] Using single-threaded processing for 439 regions
+[Stage 2/6] ✓ Extracted 439 regions in 4.8s
+[Stage 3/6] Finding neighbors...
+[Stage 3/6] Checking 96,141 region pairs...
+[Stage 3/6] Using parallel processing on 8 cores
+[Stage 3/6] ✓ Found 1,113 neighboring pairs in 0.2s
+[Stage 4/6] Computing 1,113 initial similarities...
+[Stage 4/6] Using single-threaded processing
+[Stage 4/6] ✓ Computed similarities in 0.0s
+[Stage 5/6] Hierarchical merging...
+[Stage 5/6] Merge iteration 100: 539 regions, 738 similarities
+[Stage 5/6] Merge iteration 200: 639 regions, 384 similarities
+[Stage 5/6] Merge iteration 300: 739 regions, 176 similarities
+[Stage 5/6] Merge iteration 400: 839 regions, 38 similarities
+[Stage 5/6] ✓ Hierarchical merging complete: 438 iterations in 0.6s
+[Stage 6/6] Generating final proposals...
+[Stage 6/6] ✓ Generated 877 region proposals
+
+[SUCCESS] Found 16 filtered region proposals in 7.6s
+[SUCCESS] Total regions before filtering: 877
+[SUCCESS] Saved result to: ../results/arthist_adoration1_proposals.jpg
+
+================================================================================
+[INFO] Processing image 2/9: annunciation1.jpg
+[INFO] Full path: ../data/arthist/annunciation1.jpg
+[INFO] Image shape: (489, 650, 3)
+[Stage 1/6] Segmenting image...
+[Stage 1/6] ✓ Segmentation complete: 301 segments in 0.6s
+[Stage 2/6] Extracting regions...
+[Stage 2/6] Using single-threaded processing for 301 regions
+[Stage 2/6] ✓ Extracted 301 regions in 2.0s
+[Stage 3/6] Finding neighbors...
+[Stage 3/6] Checking 45,150 region pairs...
+[Stage 3/6] Using single-threaded processing
+[Stage 3/6] ✓ Found 807 neighboring pairs in 0.1s
+[Stage 4/6] Computing 807 initial similarities...
+[Stage 4/6] Using single-threaded processing
+[Stage 4/6] ✓ Computed similarities in 0.0s
+[Stage 5/6] Hierarchical merging...
+[Stage 5/6] Merge iteration 100: 401 regions, 416 similarities
+[Stage 5/6] Merge iteration 200: 501 regions, 131 similarities
+[Stage 5/6] ✓ Hierarchical merging complete: 294 iterations in 0.3s
+[Stage 6/6] Generating final proposals...
+[Stage 6/6] ✓ Generated 595 region proposals
+
+[SUCCESS] Found 17 filtered region proposals in 3.0s
+[SUCCESS] Total regions before filtering: 595
+[SUCCESS] Saved result to: ../results/arthist_annunciation1_proposals.jpg
+
+================================================================================
+[INFO] Processing image 3/9: baptism1.jpg
+[INFO] Full path: ../data/arthist/baptism1.jpg
+[INFO] Image shape: (714, 995, 3)
+[Stage 1/6] Segmenting image...
+[Stage 1/6] ✓ Segmentation complete: 755 segments in 1.7s
+[Stage 2/6] Extracting regions...
+[Stage 2/6] Using single-threaded processing for 755 regions
+[Stage 2/6] ✓ Extracted 755 regions in 8.7s
+[Stage 3/6] Finding neighbors...
+[Stage 3/6] Checking 284,635 region pairs...
+[Stage 3/6] Using parallel processing on 8 cores
+[Stage 3/6] ✓ Found 3,423 neighboring pairs in 0.3s
+[Stage 4/6] Computing 3,423 initial similarities...
+[Stage 4/6] Using single-threaded processing
+[Stage 4/6] ✓ Computed similarities in 0.1s
+[Stage 5/6] Hierarchical merging...
+[Stage 5/6] Merge iteration 100: 855 regions, 2718 similarities
+[Stage 5/6] Merge iteration 200: 955 regions, 2143 similarities
+[Stage 5/6] Merge iteration 300: 1055 regions, 1636 similarities
+[Stage 5/6] Merge iteration 400: 1155 regions, 1094 similarities
+[Stage 5/6] Merge iteration 500: 1255 regions, 694 similarities
+[Stage 5/6] Merge iteration 600: 1355 regions, 395 similarities
+[Stage 5/6] Merge iteration 700: 1455 regions, 118 similarities
+[Stage 5/6] ✓ Hierarchical merging complete: 754 iterations in 1.3s
+[Stage 6/6] Generating final proposals...
+[Stage 6/6] ✓ Generated 1509 region proposals
+
+[SUCCESS] Found 20 filtered region proposals in 12.2s
+[SUCCESS] Total regions before filtering: 1509
+[SUCCESS] Saved result to: ../results/arthist_baptism1_proposals.jpg
+
+================================================================================
+[INFO] Processing image 4/9: ca-annun1.jpg
+[INFO] Full path: ../data/chrisarch/ca-annun1.jpg
+[INFO] Image shape: (500, 457, 3)
+[Stage 1/6] Segmenting image...
+[Stage 1/6] ✓ Segmentation complete: 397 segments in 0.3s
+[Stage 2/6] Extracting regions...
+[Stage 2/6] Using single-threaded processing for 397 regions
+[Stage 2/6] ✓ Extracted 397 regions in 2.0s
+[Stage 3/6] Finding neighbors...
+[Stage 3/6] Checking 78,606 region pairs...
+[Stage 3/6] Using parallel processing on 8 cores
+[Stage 3/6] ✓ Found 1,264 neighboring pairs in 0.1s
+[Stage 4/6] Computing 1,264 initial similarities...
+[Stage 4/6] Using single-threaded processing
+[Stage 4/6] ✓ Computed similarities in 0.1s
+[Stage 5/6] Hierarchical merging...
+[Stage 5/6] Merge iteration 100: 497 regions, 785 similarities
+[Stage 5/6] Merge iteration 200: 597 regions, 418 similarities
+[Stage 5/6] Merge iteration 300: 697 regions, 95 similarities
+[Stage 5/6] ✓ Hierarchical merging complete: 395 iterations in 0.5s
+[Stage 6/6] Generating final proposals...
+[Stage 6/6] ✓ Generated 792 region proposals
+
+[SUCCESS] Found 10 filtered region proposals in 3.1s
+[SUCCESS] Total regions before filtering: 792
+[SUCCESS] Saved result to: ../results/chrisarch_ca-annun1_proposals.jpg
+
+================================================================================
+[INFO] Processing image 5/9: ca-annun2.jpg
+[INFO] Full path: ../data/chrisarch/ca-annun2.jpg
+[INFO] Image shape: (432, 631, 3)
+[Stage 1/6] Segmenting image...
+[Stage 1/6] ✓ Segmentation complete: 590 segments in 0.5s
+[Stage 2/6] Extracting regions...
+[Stage 2/6] Using single-threaded processing for 590 regions
+[Stage 2/6] ✓ Extracted 590 regions in 3.1s
+[Stage 3/6] Finding neighbors...
+[Stage 3/6] Checking 173,755 region pairs...
+[Stage 3/6] Using parallel processing on 8 cores
+[Stage 3/6] ✓ Found 2,012 neighboring pairs in 0.2s
+[Stage 4/6] Computing 2,012 initial similarities...
+[Stage 4/6] Using single-threaded processing
+[Stage 4/6] ✓ Computed similarities in 0.1s
+[Stage 5/6] Hierarchical merging...
+[Stage 5/6] Merge iteration 100: 690 regions, 1510 similarities
+[Stage 5/6] Merge iteration 200: 790 regions, 1090 similarities
+[Stage 5/6] Merge iteration 300: 890 regions, 645 similarities
+[Stage 5/6] Merge iteration 400: 990 regions, 371 similarities
+[Stage 5/6] Merge iteration 500: 1090 regions, 88 similarities
+[Stage 5/6] ✓ Hierarchical merging complete: 588 iterations in 0.9s
+[Stage 6/6] Generating final proposals...
+[Stage 6/6] ✓ Generated 1178 region proposals
+
+[SUCCESS] Found 15 filtered region proposals in 4.8s
+[SUCCESS] Total regions before filtering: 1178
+[SUCCESS] Saved result to: ../results/chrisarch_ca-annun2_proposals.jpg
+
+================================================================================
+[INFO] Processing image 6/9: ca-annun3.jpg
+[INFO] Full path: ../data/chrisarch/ca-annun3.jpg
+[INFO] Image shape: (848, 947, 3)
+[Stage 1/6] Segmenting image...
+[Stage 1/6] ✓ Segmentation complete: 1185 segments in 1.7s
+[Stage 2/6] Extracting regions...
+[Stage 2/6] Using parallel processing on 8 cores for 1185 regions
+[Stage 2/6] ✓ Extracted 1185 regions in 6.9s
+[Stage 3/6] Finding neighbors...
+[Stage 3/6] Checking 701,520 region pairs...
+[Stage 3/6] Using parallel processing on 8 cores
+[Stage 3/6] ✓ Found 6,257 neighboring pairs in 0.6s
+[Stage 4/6] Computing 6,257 initial similarities...
+[Stage 4/6] Using parallel processing on 8 cores
+[Stage 4/6] ✓ Computed similarities in 0.2s
+[Stage 5/6] Hierarchical merging...
+[Stage 5/6] Merge iteration 100: 1285 regions, 5239 similarities
+[Stage 5/6] Merge iteration 200: 1385 regions, 4436 similarities
+[Stage 5/6] Merge iteration 300: 1485 regions, 3783 similarities
+[Stage 5/6] Merge iteration 400: 1585 regions, 3238 similarities
+[Stage 5/6] Merge iteration 500: 1685 regions, 2703 similarities
+[Stage 5/6] Merge iteration 600: 1785 regions, 2235 similarities
+[Stage 5/6] Merge iteration 700: 1885 regions, 1713 similarities
+[Stage 5/6] Merge iteration 800: 1985 regions, 1216 similarities
+[Stage 5/6] Merge iteration 900: 2085 regions, 630 similarities
+[Stage 5/6] Merge iteration 1000: 2185 regions, 353 similarities
+[Stage 5/6] Merge iteration 1100: 2285 regions, 155 similarities
+[Stage 5/6] ✓ Hierarchical merging complete: 1180 iterations in 2.5s
+[Stage 6/6] Generating final proposals...
+[Stage 6/6] ✓ Generated 2365 region proposals
+
+[SUCCESS] Found 29 filtered region proposals in 12.0s
+[SUCCESS] Total regions before filtering: 2365
+[SUCCESS] Saved result to: ../results/chrisarch_ca-annun3_proposals.jpg
+
+================================================================================
+[INFO] Processing image 7/9: ajax3.jpg
+[INFO] Full path: ../data/classarch/ajax3.jpg
+[INFO] Image shape: (764, 1000, 3)
+[Stage 1/6] Segmenting image...
+[Stage 1/6] ✓ Segmentation complete: 906 segments in 1.7s
+[Stage 2/6] Extracting regions...
+[Stage 2/6] Using single-threaded processing for 906 regions
+[Stage 2/6] ✓ Extracted 906 regions in 11.1s
+[Stage 3/6] Finding neighbors...
+[Stage 3/6] Checking 409,965 region pairs...
+[Stage 3/6] Using parallel processing on 8 cores
+[Stage 3/6] ✓ Found 4,006 neighboring pairs in 0.4s
+[Stage 4/6] Computing 4,006 initial similarities...
+[Stage 4/6] Using single-threaded processing
+[Stage 4/6] ✓ Computed similarities in 0.1s
+[Stage 5/6] Hierarchical merging...
+[Stage 5/6] Merge iteration 100: 1006 regions, 3296 similarities
+[Stage 5/6] Merge iteration 200: 1106 regions, 2571 similarities
+[Stage 5/6] Merge iteration 300: 1206 regions, 1955 similarities
+[Stage 5/6] Merge iteration 400: 1306 regions, 1432 similarities
+[Stage 5/6] Merge iteration 500: 1406 regions, 1074 similarities
+[Stage 5/6] Merge iteration 600: 1506 regions, 708 similarities
+[Stage 5/6] Merge iteration 700: 1606 regions, 449 similarities
+[Stage 5/6] Merge iteration 800: 1706 regions, 216 similarities
+[Stage 5/6] Merge iteration 900: 1806 regions, 5 similarities
+[Stage 5/6] ✓ Hierarchical merging complete: 905 iterations in 1.6s
+[Stage 6/6] Generating final proposals...
+[Stage 6/6] ✓ Generated 1811 region proposals
+
+[SUCCESS] Found 22 filtered region proposals in 14.9s
+[SUCCESS] Total regions before filtering: 1811
+[SUCCESS] Saved result to: ../results/classarch_ajax3_proposals.jpg
+
+================================================================================
+[INFO] Processing image 8/9: leading1.jpg
+[INFO] Full path: ../data/classarch/leading1.jpg
+[INFO] Image shape: (816, 1042, 3)
+[Stage 1/6] Segmenting image...
+[Stage 1/6] ✓ Segmentation complete: 598 segments in 1.8s
+[Stage 2/6] Extracting regions...
+[Stage 2/6] Using single-threaded processing for 598 regions
+[Stage 2/6] ✓ Extracted 598 regions in 8.2s
+[Stage 3/6] Finding neighbors...
+[Stage 3/6] Checking 178,503 region pairs...
+[Stage 3/6] Using parallel processing on 8 cores
+[Stage 3/6] ✓ Found 2,442 neighboring pairs in 0.2s
+[Stage 4/6] Computing 2,442 initial similarities...
+[Stage 4/6] Using single-threaded processing
+[Stage 4/6] ✓ Computed similarities in 0.1s
+[Stage 5/6] Hierarchical merging...
+[Stage 5/6] Merge iteration 100: 698 regions, 1779 similarities
+[Stage 5/6] Merge iteration 200: 798 regions, 1196 similarities
+[Stage 5/6] Merge iteration 300: 898 regions, 706 similarities
+[Stage 5/6] Merge iteration 400: 998 regions, 247 similarities
+[Stage 5/6] Merge iteration 500: 1098 regions, 113 similarities
+[Stage 5/6] ✓ Hierarchical merging complete: 597 iterations in 1.0s
+[Stage 6/6] Generating final proposals...
+[Stage 6/6] ✓ Generated 1195 region proposals
+
+[SUCCESS] Found 27 filtered region proposals in 11.3s
+[SUCCESS] Total regions before filtering: 1195
+[SUCCESS] Saved result to: ../results/classarch_leading1_proposals.jpg
+
+================================================================================
+[INFO] Processing image 9/9: pursuit2.jpg
+[INFO] Full path: ../data/classarch/pursuit2.jpg
+[INFO] Image shape: (659, 1000, 3)
+[Stage 1/6] Segmenting image...
+[Stage 1/6] ✓ Segmentation complete: 651 segments in 1.2s
+[Stage 2/6] Extracting regions...
+[Stage 2/6] Using single-threaded processing for 651 regions
+[Stage 2/6] ✓ Extracted 651 regions in 7.2s
+[Stage 3/6] Finding neighbors...
+[Stage 3/6] Checking 211,575 region pairs...
+[Stage 3/6] Using parallel processing on 8 cores
+[Stage 3/6] ✓ Found 2,993 neighboring pairs in 0.2s
+[Stage 4/6] Computing 2,993 initial similarities...
+[Stage 4/6] Using single-threaded processing
+[Stage 4/6] ✓ Computed similarities in 0.1s
+[Stage 5/6] Hierarchical merging...
+[Stage 5/6] Merge iteration 100: 751 regions, 2325 similarities
+[Stage 5/6] Merge iteration 200: 851 regions, 1729 similarities
+[Stage 5/6] Merge iteration 300: 951 regions, 1186 similarities
+[Stage 5/6] Merge iteration 400: 1051 regions, 753 similarities
+[Stage 5/6] Merge iteration 500: 1151 regions, 344 similarities
+[Stage 5/6] Merge iteration 600: 1251 regions, 39 similarities
+[Stage 5/6] ✓ Hierarchical merging complete: 639 iterations in 1.1s
+[Stage 6/6] Generating final proposals...
+[Stage 6/6] ✓ Generated 1290 region proposals
+
+[SUCCESS] Found 33 filtered region proposals in 9.8s
+[SUCCESS] Total regions before filtering: 1290
+[SUCCESS] Saved result to: ../results/classarch_pursuit2_proposals.jpg
+
+================================================================================
+[COMPLETE] Processed all 9 images in 82.0s
+[COMPLETE] Average time per image: 9.1s

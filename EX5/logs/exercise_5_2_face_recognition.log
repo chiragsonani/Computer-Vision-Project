@@ -1,0 +1,1643 @@
+2025-08-06 19:10:18,399 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:10:18,399 - FaceRecognizerModule - INFO - EXERCISE 5.2 - FaceRecognizerModule LOGGER INITIALIZED
+2025-08-06 19:10:18,399 - FaceRecognizerModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_2_face_recognition.log
+2025-08-06 19:10:18,399 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:10:18,435 - FaceRecognizerModule - INFO - FaceRecognizerModule.__init__: Initialized with k=5, τd=0.7, τp=0.8
+2025-08-06 19:10:18,435 - FaceRecognizerModule - INFO - Gallery loaded: 2980 labels, (2980, 128) embeddings
+2025-08-06 19:11:01,102 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:11:01,103 - FaceRecognizerModule - INFO - EXERCISE 5.2 - FaceRecognizerModule LOGGER INITIALIZED
+2025-08-06 19:11:01,103 - FaceRecognizerModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_2_face_recognition.log
+2025-08-06 19:11:01,103 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:11:01,138 - FaceRecognizerModule - INFO - FaceRecognizerModule.__init__: Initialized with k=5, τd=0.7, τp=0.8
+2025-08-06 19:11:16,940 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:11:16,940 - FaceRecognizerModule - INFO - EXERCISE 5.2 - FaceRecognizerModule LOGGER INITIALIZED
+2025-08-06 19:11:16,940 - FaceRecognizerModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_2_face_recognition.log
+2025-08-06 19:11:16,940 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:11:16,976 - FaceRecognizerModule - INFO - FaceRecognizerModule.__init__: Initialized with k=5, τd=0.7, τp=0.8
+2025-08-06 19:11:30,291 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:11:30,291 - FaceRecognizerModule - INFO - EXERCISE 5.2 - FaceRecognizerModule LOGGER INITIALIZED
+2025-08-06 19:11:30,291 - FaceRecognizerModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_2_face_recognition.log
+2025-08-06 19:11:30,291 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:11:30,328 - FaceRecognizerModule - INFO - FaceRecognizerModule.__init__: Initialized with k=5, τd=0.7, τp=0.8
+2025-08-06 19:11:44,092 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:11:44,092 - FaceRecognizerModule - INFO - EXERCISE 5.2 - FaceRecognizerModule LOGGER INITIALIZED
+2025-08-06 19:11:44,092 - FaceRecognizerModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_2_face_recognition.log
+2025-08-06 19:11:44,092 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:11:44,128 - FaceRecognizerModule - INFO - FaceRecognizerModule.__init__: Initialized with k=5, τd=0.7, τp=0.8
+2025-08-06 19:11:56,107 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:11:56,107 - FaceRecognizerModule - INFO - EXERCISE 5.2 - FaceRecognizerModule LOGGER INITIALIZED
+2025-08-06 19:11:56,107 - FaceRecognizerModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_2_face_recognition.log
+2025-08-06 19:11:56,107 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:11:56,143 - FaceRecognizerModule - INFO - FaceRecognizerModule.__init__: Initialized with k=5, τd=0.7, τp=0.8
+2025-08-06 19:13:04,818 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:13:04,818 - FaceRecognizerModule - INFO - EXERCISE 5.2 - FaceRecognizerModule LOGGER INITIALIZED
+2025-08-06 19:13:04,818 - FaceRecognizerModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_2_face_recognition.log
+2025-08-06 19:13:04,818 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:13:04,859 - FaceRecognizerModule - INFO - FaceRecognizerModule.__init__: Initialized with k=5, τd=0.7, τp=0.8
+2025-08-06 19:13:05,227 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:05,227 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:05,227 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:05,227 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 2 labels, Embeddings shape: (2, 128)
+2025-08-06 19:13:05,655 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:05,655 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:05,655 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:05,655 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 4 labels, Embeddings shape: (4, 128)
+2025-08-06 19:13:05,818 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:05,818 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:05,818 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:05,818 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 6 labels, Embeddings shape: (6, 128)
+2025-08-06 19:13:05,971 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:05,971 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:05,971 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:05,971 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 8 labels, Embeddings shape: (8, 128)
+2025-08-06 19:13:06,129 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:06,129 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:06,129 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:06,129 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 10 labels, Embeddings shape: (10, 128)
+2025-08-06 19:13:06,289 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:06,289 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:06,289 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:06,289 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 12 labels, Embeddings shape: (12, 128)
+2025-08-06 19:13:06,451 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:06,451 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:06,451 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:06,451 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 14 labels, Embeddings shape: (14, 128)
+2025-08-06 19:13:06,611 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:06,611 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:06,612 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:06,612 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 16 labels, Embeddings shape: (16, 128)
+2025-08-06 19:13:06,767 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:06,767 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:06,767 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:06,767 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 18 labels, Embeddings shape: (18, 128)
+2025-08-06 19:13:06,921 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:06,921 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:06,921 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:06,921 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 20 labels, Embeddings shape: (20, 128)
+2025-08-06 19:13:07,078 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:07,079 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:07,079 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:07,079 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 22 labels, Embeddings shape: (22, 128)
+2025-08-06 19:13:07,241 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:07,241 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:07,241 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:07,241 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 24 labels, Embeddings shape: (24, 128)
+2025-08-06 19:13:07,406 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:07,406 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:07,406 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:07,406 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 26 labels, Embeddings shape: (26, 128)
+2025-08-06 19:13:07,562 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:07,562 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:07,563 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:07,563 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 28 labels, Embeddings shape: (28, 128)
+2025-08-06 19:13:07,728 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:07,728 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:07,728 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:07,728 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 30 labels, Embeddings shape: (30, 128)
+2025-08-06 19:13:07,898 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:07,898 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:07,898 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:07,898 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 32 labels, Embeddings shape: (32, 128)
+2025-08-06 19:13:08,053 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:08,053 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:08,053 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:08,053 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 34 labels, Embeddings shape: (34, 128)
+2025-08-06 19:13:08,209 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:08,209 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:08,209 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:08,209 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 36 labels, Embeddings shape: (36, 128)
+2025-08-06 19:13:08,374 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:08,374 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:08,374 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:08,374 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 38 labels, Embeddings shape: (38, 128)
+2025-08-06 19:13:08,528 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:08,528 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:08,528 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:08,528 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 40 labels, Embeddings shape: (40, 128)
+2025-08-06 19:13:08,682 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:08,682 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:08,682 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:08,682 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 42 labels, Embeddings shape: (42, 128)
+2025-08-06 19:13:08,844 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:08,844 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:08,844 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:08,844 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 44 labels, Embeddings shape: (44, 128)
+2025-08-06 19:13:09,009 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:09,009 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:09,009 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:09,009 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 46 labels, Embeddings shape: (46, 128)
+2025-08-06 19:13:09,172 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:09,172 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:09,172 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:09,172 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 48 labels, Embeddings shape: (48, 128)
+2025-08-06 19:13:09,335 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:09,336 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:09,336 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:09,336 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 50 labels, Embeddings shape: (50, 128)
+2025-08-06 19:13:09,501 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:09,501 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:09,501 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:09,501 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 52 labels, Embeddings shape: (52, 128)
+2025-08-06 19:13:09,667 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:09,667 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:09,667 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:09,667 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 54 labels, Embeddings shape: (54, 128)
+2025-08-06 19:13:09,831 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:09,831 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:09,831 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:09,831 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 56 labels, Embeddings shape: (56, 128)
+2025-08-06 19:13:09,985 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:09,985 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:09,985 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:09,985 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 58 labels, Embeddings shape: (58, 128)
+2025-08-06 19:13:10,138 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:10,138 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:10,138 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:10,138 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 60 labels, Embeddings shape: (60, 128)
+2025-08-06 19:13:10,288 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:10,288 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:10,288 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:10,288 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 62 labels, Embeddings shape: (62, 128)
+2025-08-06 19:13:10,451 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:10,451 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:10,451 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:10,451 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 64 labels, Embeddings shape: (64, 128)
+2025-08-06 19:13:10,603 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:10,603 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:10,603 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:10,603 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 66 labels, Embeddings shape: (66, 128)
+2025-08-06 19:13:10,755 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:10,755 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:10,755 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:10,755 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 68 labels, Embeddings shape: (68, 128)
+2025-08-06 19:13:10,917 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:10,918 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:10,918 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:10,918 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 70 labels, Embeddings shape: (70, 128)
+2025-08-06 19:13:11,071 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:11,071 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:11,071 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:11,071 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 72 labels, Embeddings shape: (72, 128)
+2025-08-06 19:13:11,671 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:11,671 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:11,671 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:11,671 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 74 labels, Embeddings shape: (74, 128)
+2025-08-06 19:13:11,827 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:11,828 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:11,828 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:11,828 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 76 labels, Embeddings shape: (76, 128)
+2025-08-06 19:13:11,980 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:11,981 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:11,981 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:11,981 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 78 labels, Embeddings shape: (78, 128)
+2025-08-06 19:13:12,133 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:12,133 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:12,133 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:12,133 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 80 labels, Embeddings shape: (80, 128)
+2025-08-06 19:13:12,299 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:12,299 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:12,299 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:12,299 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 82 labels, Embeddings shape: (82, 128)
+2025-08-06 19:13:12,463 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:12,463 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:12,463 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:12,463 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 84 labels, Embeddings shape: (84, 128)
+2025-08-06 19:13:12,617 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:12,619 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:12,619 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:12,619 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 86 labels, Embeddings shape: (86, 128)
+2025-08-06 19:13:12,788 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:12,788 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:12,788 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:12,788 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 88 labels, Embeddings shape: (88, 128)
+2025-08-06 19:13:12,940 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:12,940 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:12,940 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:12,940 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 90 labels, Embeddings shape: (90, 128)
+2025-08-06 19:13:13,092 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:13,093 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:13,093 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:13,093 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 92 labels, Embeddings shape: (92, 128)
+2025-08-06 19:13:13,258 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:13,258 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:13,258 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:13,258 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 94 labels, Embeddings shape: (94, 128)
+2025-08-06 19:13:13,414 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:13,414 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:13,414 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:13,414 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 96 labels, Embeddings shape: (96, 128)
+2025-08-06 19:13:13,573 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:13,573 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:13,573 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:13,573 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 98 labels, Embeddings shape: (98, 128)
+2025-08-06 19:13:13,729 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:13,729 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:13,729 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:13,729 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 100 labels, Embeddings shape: (100, 128)
+2025-08-06 19:13:13,885 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:13,885 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:13,885 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:13,885 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 102 labels, Embeddings shape: (102, 128)
+2025-08-06 19:13:14,039 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:14,040 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:14,040 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:14,040 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 104 labels, Embeddings shape: (104, 128)
+2025-08-06 19:13:14,190 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:14,190 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:14,190 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:14,190 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 106 labels, Embeddings shape: (106, 128)
+2025-08-06 19:13:14,358 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:14,358 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:14,358 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:14,358 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 108 labels, Embeddings shape: (108, 128)
+2025-08-06 19:13:14,524 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:14,524 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:14,524 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:14,524 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 110 labels, Embeddings shape: (110, 128)
+2025-08-06 19:13:14,684 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:14,684 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:14,684 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:14,684 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 112 labels, Embeddings shape: (112, 128)
+2025-08-06 19:13:14,835 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:14,835 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:14,835 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:14,835 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 114 labels, Embeddings shape: (114, 128)
+2025-08-06 19:13:14,985 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:14,985 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:14,986 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:14,986 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 116 labels, Embeddings shape: (116, 128)
+2025-08-06 19:13:15,138 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:15,138 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:15,138 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:15,138 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 118 labels, Embeddings shape: (118, 128)
+2025-08-06 19:13:15,294 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:15,294 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:15,294 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:15,294 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 120 labels, Embeddings shape: (120, 128)
+2025-08-06 19:13:15,460 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:15,460 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:15,460 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:15,460 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 122 labels, Embeddings shape: (122, 128)
+2025-08-06 19:13:15,615 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:15,615 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:15,615 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:15,615 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 124 labels, Embeddings shape: (124, 128)
+2025-08-06 19:13:15,767 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:15,767 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:15,767 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:15,767 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 126 labels, Embeddings shape: (126, 128)
+2025-08-06 19:13:15,918 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:15,918 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:15,918 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:15,919 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 128 labels, Embeddings shape: (128, 128)
+2025-08-06 19:13:16,074 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:16,074 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:16,074 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:16,074 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 130 labels, Embeddings shape: (130, 128)
+2025-08-06 19:13:16,238 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:16,238 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:16,238 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:16,238 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 132 labels, Embeddings shape: (132, 128)
+2025-08-06 19:13:16,389 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:16,389 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:16,389 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:16,390 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 134 labels, Embeddings shape: (134, 128)
+2025-08-06 19:13:16,542 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:16,542 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:16,542 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:16,543 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 136 labels, Embeddings shape: (136, 128)
+2025-08-06 19:13:16,698 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:16,698 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:16,698 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:16,698 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 138 labels, Embeddings shape: (138, 128)
+2025-08-06 19:13:16,853 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:16,853 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:16,853 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:16,853 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 140 labels, Embeddings shape: (140, 128)
+2025-08-06 19:13:17,009 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:17,009 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:17,009 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:17,009 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 142 labels, Embeddings shape: (142, 128)
+2025-08-06 19:13:17,165 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:17,165 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:17,165 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:17,165 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 144 labels, Embeddings shape: (144, 128)
+2025-08-06 19:13:17,327 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:17,327 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:17,327 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:17,327 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 146 labels, Embeddings shape: (146, 128)
+2025-08-06 19:13:17,488 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:17,488 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:17,488 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:17,488 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 148 labels, Embeddings shape: (148, 128)
+2025-08-06 19:13:17,644 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:17,644 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:17,644 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:17,644 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 150 labels, Embeddings shape: (150, 128)
+2025-08-06 19:13:17,813 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:17,813 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:17,813 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:17,813 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 152 labels, Embeddings shape: (152, 128)
+2025-08-06 19:13:17,968 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:17,968 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:17,968 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:17,968 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 154 labels, Embeddings shape: (154, 128)
+2025-08-06 19:13:18,122 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:18,122 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:18,122 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:18,122 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 156 labels, Embeddings shape: (156, 128)
+2025-08-06 19:13:18,284 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:18,284 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:18,284 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:18,284 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 158 labels, Embeddings shape: (158, 128)
+2025-08-06 19:13:18,450 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Alan_Ball
+2025-08-06 19:13:18,450 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:18,450 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:18,450 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 160 labels, Embeddings shape: (160, 128)
+2025-08-06 19:13:46,446 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:13:46,446 - FaceRecognizerModule - INFO - EXERCISE 5.2 - FaceRecognizerModule LOGGER INITIALIZED
+2025-08-06 19:13:46,446 - FaceRecognizerModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_2_face_recognition.log
+2025-08-06 19:13:46,446 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:13:46,482 - FaceRecognizerModule - INFO - FaceRecognizerModule.__init__: Initialized with k=5, τd=0.7, τp=0.8
+2025-08-06 19:13:46,482 - FaceRecognizerModule - INFO - Gallery loaded: 160 labels, (160, 128) embeddings
+2025-08-06 19:13:46,848 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:46,848 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:46,848 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:46,848 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 162 labels, Embeddings shape: (162, 128)
+2025-08-06 19:13:47,369 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:47,369 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:47,369 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:47,369 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 164 labels, Embeddings shape: (164, 128)
+2025-08-06 19:13:47,536 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:47,536 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:47,536 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:47,536 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 166 labels, Embeddings shape: (166, 128)
+2025-08-06 19:13:47,706 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:47,706 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:47,706 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:47,706 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 168 labels, Embeddings shape: (168, 128)
+2025-08-06 19:13:47,879 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:47,880 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:47,880 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:47,880 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 170 labels, Embeddings shape: (170, 128)
+2025-08-06 19:13:48,036 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:48,036 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:48,036 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:48,036 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 172 labels, Embeddings shape: (172, 128)
+2025-08-06 19:13:48,189 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:48,189 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:48,189 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:48,189 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 174 labels, Embeddings shape: (174, 128)
+2025-08-06 19:13:48,346 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:48,346 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:48,346 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:48,346 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 176 labels, Embeddings shape: (176, 128)
+2025-08-06 19:13:48,505 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:48,505 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:48,505 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:48,505 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 178 labels, Embeddings shape: (178, 128)
+2025-08-06 19:13:48,656 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:48,656 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:48,656 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:48,656 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 180 labels, Embeddings shape: (180, 128)
+2025-08-06 19:13:48,819 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:48,819 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:48,819 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:48,819 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 182 labels, Embeddings shape: (182, 128)
+2025-08-06 19:13:48,981 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:48,981 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:48,981 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:48,981 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 184 labels, Embeddings shape: (184, 128)
+2025-08-06 19:13:49,149 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:49,149 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:49,149 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:49,149 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 186 labels, Embeddings shape: (186, 128)
+2025-08-06 19:13:49,314 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:49,315 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:49,315 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:49,315 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 188 labels, Embeddings shape: (188, 128)
+2025-08-06 19:13:49,471 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:49,471 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:49,471 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:49,471 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 190 labels, Embeddings shape: (190, 128)
+2025-08-06 19:13:49,628 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:49,628 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:49,628 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:49,628 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 192 labels, Embeddings shape: (192, 128)
+2025-08-06 19:13:49,786 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:49,786 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:49,786 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:49,787 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 194 labels, Embeddings shape: (194, 128)
+2025-08-06 19:13:49,946 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:49,946 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:49,946 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:49,946 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 196 labels, Embeddings shape: (196, 128)
+2025-08-06 19:13:50,102 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:50,102 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:50,102 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:50,102 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 198 labels, Embeddings shape: (198, 128)
+2025-08-06 19:13:50,257 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:50,257 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:50,257 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:50,257 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 200 labels, Embeddings shape: (200, 128)
+2025-08-06 19:13:50,408 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:50,408 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:50,408 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:50,408 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 202 labels, Embeddings shape: (202, 128)
+2025-08-06 19:13:50,564 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:50,564 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:50,565 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:50,565 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 204 labels, Embeddings shape: (204, 128)
+2025-08-06 19:13:50,720 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:50,720 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:50,720 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:50,720 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 206 labels, Embeddings shape: (206, 128)
+2025-08-06 19:13:50,882 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:50,882 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:50,882 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:50,883 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 208 labels, Embeddings shape: (208, 128)
+2025-08-06 19:13:51,040 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:51,040 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:51,040 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:51,040 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 210 labels, Embeddings shape: (210, 128)
+2025-08-06 19:13:51,203 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:51,203 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:51,203 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:51,204 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 212 labels, Embeddings shape: (212, 128)
+2025-08-06 19:13:51,359 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:51,359 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:51,359 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:51,359 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 214 labels, Embeddings shape: (214, 128)
+2025-08-06 19:13:51,513 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:51,513 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:51,513 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:51,513 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 216 labels, Embeddings shape: (216, 128)
+2025-08-06 19:13:51,665 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:51,665 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:51,665 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:51,665 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 218 labels, Embeddings shape: (218, 128)
+2025-08-06 19:13:51,822 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:51,822 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:51,822 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:51,822 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 220 labels, Embeddings shape: (220, 128)
+2025-08-06 19:13:51,977 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:51,977 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:51,977 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:51,977 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 222 labels, Embeddings shape: (222, 128)
+2025-08-06 19:13:52,144 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:52,144 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:52,144 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:52,145 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 224 labels, Embeddings shape: (224, 128)
+2025-08-06 19:13:52,302 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:52,302 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:52,302 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:52,302 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 226 labels, Embeddings shape: (226, 128)
+2025-08-06 19:13:52,468 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:52,468 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:52,468 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:52,468 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 228 labels, Embeddings shape: (228, 128)
+2025-08-06 19:13:52,624 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:52,624 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:52,624 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:52,624 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 230 labels, Embeddings shape: (230, 128)
+2025-08-06 19:13:52,779 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:52,779 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:52,779 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:52,779 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 232 labels, Embeddings shape: (232, 128)
+2025-08-06 19:13:54,010 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:54,010 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:54,010 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:54,010 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 234 labels, Embeddings shape: (234, 128)
+2025-08-06 19:13:54,170 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:54,170 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:54,170 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:54,170 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 236 labels, Embeddings shape: (236, 128)
+2025-08-06 19:13:54,327 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:54,327 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:54,327 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:54,327 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 238 labels, Embeddings shape: (238, 128)
+2025-08-06 19:13:54,483 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:54,483 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:54,483 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:54,483 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 240 labels, Embeddings shape: (240, 128)
+2025-08-06 19:13:54,639 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:54,639 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:54,639 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:54,639 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 242 labels, Embeddings shape: (242, 128)
+2025-08-06 19:13:54,792 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:54,792 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:54,792 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:54,792 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 244 labels, Embeddings shape: (244, 128)
+2025-08-06 19:13:54,958 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:54,958 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:54,958 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:54,958 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 246 labels, Embeddings shape: (246, 128)
+2025-08-06 19:13:55,127 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:55,127 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:55,127 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:55,127 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 248 labels, Embeddings shape: (248, 128)
+2025-08-06 19:13:55,280 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:55,280 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:55,280 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:55,281 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 250 labels, Embeddings shape: (250, 128)
+2025-08-06 19:13:55,434 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:55,434 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:55,434 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:55,434 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 252 labels, Embeddings shape: (252, 128)
+2025-08-06 19:13:55,588 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:55,588 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:55,588 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:55,588 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 254 labels, Embeddings shape: (254, 128)
+2025-08-06 19:13:55,741 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:55,741 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:55,741 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:55,741 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 256 labels, Embeddings shape: (256, 128)
+2025-08-06 19:13:55,903 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:55,904 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:55,904 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:55,904 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 258 labels, Embeddings shape: (258, 128)
+2025-08-06 19:13:56,059 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:56,059 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:56,059 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:56,059 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 260 labels, Embeddings shape: (260, 128)
+2025-08-06 19:13:56,228 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:56,228 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:56,228 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:56,228 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 262 labels, Embeddings shape: (262, 128)
+2025-08-06 19:13:56,387 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:56,387 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:56,387 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:56,387 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 264 labels, Embeddings shape: (264, 128)
+2025-08-06 19:13:56,547 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:56,547 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:56,547 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:56,547 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 266 labels, Embeddings shape: (266, 128)
+2025-08-06 19:13:56,705 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:56,705 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:56,705 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:56,705 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 268 labels, Embeddings shape: (268, 128)
+2025-08-06 19:13:56,862 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:56,862 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:56,862 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:56,862 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 270 labels, Embeddings shape: (270, 128)
+2025-08-06 19:13:57,021 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:57,021 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:57,021 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:57,021 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 272 labels, Embeddings shape: (272, 128)
+2025-08-06 19:13:57,177 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Manuel_Pellegrini
+2025-08-06 19:13:57,177 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:13:57,177 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:13:57,177 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 274 labels, Embeddings shape: (274, 128)
+2025-08-06 19:14:00,967 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:14:00,967 - FaceRecognizerModule - INFO - EXERCISE 5.2 - FaceRecognizerModule LOGGER INITIALIZED
+2025-08-06 19:14:00,967 - FaceRecognizerModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_2_face_recognition.log
+2025-08-06 19:14:00,967 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:14:01,003 - FaceRecognizerModule - INFO - FaceRecognizerModule.__init__: Initialized with k=5, τd=0.7, τp=0.8
+2025-08-06 19:14:01,003 - FaceRecognizerModule - INFO - Gallery loaded: 274 labels, (274, 128) embeddings
+2025-08-06 19:14:01,383 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:01,384 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:01,384 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:01,384 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 276 labels, Embeddings shape: (276, 128)
+2025-08-06 19:14:01,844 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:01,844 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:01,844 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:01,844 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 278 labels, Embeddings shape: (278, 128)
+2025-08-06 19:14:02,008 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:02,008 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:02,008 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:02,008 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 280 labels, Embeddings shape: (280, 128)
+2025-08-06 19:14:02,164 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:02,164 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:02,164 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:02,164 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 282 labels, Embeddings shape: (282, 128)
+2025-08-06 19:14:02,316 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:02,316 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:02,316 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:02,316 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 284 labels, Embeddings shape: (284, 128)
+2025-08-06 19:14:02,476 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:02,476 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:02,476 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:02,476 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 286 labels, Embeddings shape: (286, 128)
+2025-08-06 19:14:02,637 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:02,637 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:02,637 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:02,637 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 288 labels, Embeddings shape: (288, 128)
+2025-08-06 19:14:02,792 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:02,792 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:02,792 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:02,792 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 290 labels, Embeddings shape: (290, 128)
+2025-08-06 19:14:02,942 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:02,942 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:02,942 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:02,942 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 292 labels, Embeddings shape: (292, 128)
+2025-08-06 19:14:03,093 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:03,093 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:03,093 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:03,093 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 294 labels, Embeddings shape: (294, 128)
+2025-08-06 19:14:03,257 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:03,258 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:03,258 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:03,258 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 296 labels, Embeddings shape: (296, 128)
+2025-08-06 19:14:03,414 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:03,414 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:03,414 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:03,414 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 298 labels, Embeddings shape: (298, 128)
+2025-08-06 19:14:03,569 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:03,569 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:03,569 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:03,569 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 300 labels, Embeddings shape: (300, 128)
+2025-08-06 19:14:03,725 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:03,725 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:03,725 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:03,725 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 302 labels, Embeddings shape: (302, 128)
+2025-08-06 19:14:03,892 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:03,892 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:03,892 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:03,892 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 304 labels, Embeddings shape: (304, 128)
+2025-08-06 19:14:04,047 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:04,048 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:04,048 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:04,048 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 306 labels, Embeddings shape: (306, 128)
+2025-08-06 19:14:04,205 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:04,205 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:04,205 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:04,205 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 308 labels, Embeddings shape: (308, 128)
+2025-08-06 19:14:04,361 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:04,361 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:04,361 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:04,361 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 310 labels, Embeddings shape: (310, 128)
+2025-08-06 19:14:04,512 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:04,512 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:04,512 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:04,512 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 312 labels, Embeddings shape: (312, 128)
+2025-08-06 19:14:04,666 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:04,666 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:04,666 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:04,666 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 314 labels, Embeddings shape: (314, 128)
+2025-08-06 19:14:04,817 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:04,817 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:04,817 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:04,817 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 316 labels, Embeddings shape: (316, 128)
+2025-08-06 19:14:04,971 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:04,971 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:04,971 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:04,971 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 318 labels, Embeddings shape: (318, 128)
+2025-08-06 19:14:05,127 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:05,127 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:05,127 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:05,127 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 320 labels, Embeddings shape: (320, 128)
+2025-08-06 19:14:05,280 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:05,280 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:05,280 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:05,280 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 322 labels, Embeddings shape: (322, 128)
+2025-08-06 19:14:05,434 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:05,434 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:05,434 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:05,434 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 324 labels, Embeddings shape: (324, 128)
+2025-08-06 19:14:05,586 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:05,586 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:05,586 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:05,587 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 326 labels, Embeddings shape: (326, 128)
+2025-08-06 19:14:05,739 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:05,739 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:05,739 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:05,739 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 328 labels, Embeddings shape: (328, 128)
+2025-08-06 19:14:05,907 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:05,907 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:05,907 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:05,907 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 330 labels, Embeddings shape: (330, 128)
+2025-08-06 19:14:06,071 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:06,071 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:06,071 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:06,071 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 332 labels, Embeddings shape: (332, 128)
+2025-08-06 19:14:06,225 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:06,225 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:06,225 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:06,225 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 334 labels, Embeddings shape: (334, 128)
+2025-08-06 19:14:06,377 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:06,377 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:06,377 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:06,377 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 336 labels, Embeddings shape: (336, 128)
+2025-08-06 19:14:06,527 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:06,528 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:06,528 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:06,528 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 338 labels, Embeddings shape: (338, 128)
+2025-08-06 19:14:06,678 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:06,678 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:06,678 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:06,678 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 340 labels, Embeddings shape: (340, 128)
+2025-08-06 19:14:06,828 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:06,828 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:06,828 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:06,828 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 342 labels, Embeddings shape: (342, 128)
+2025-08-06 19:14:06,981 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:06,981 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:06,981 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:06,981 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 344 labels, Embeddings shape: (344, 128)
+2025-08-06 19:14:07,132 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:07,132 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:07,132 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:07,132 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 346 labels, Embeddings shape: (346, 128)
+2025-08-06 19:14:07,995 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:07,995 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:07,995 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:07,995 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 348 labels, Embeddings shape: (348, 128)
+2025-08-06 19:14:08,152 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:08,152 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:08,152 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:08,152 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 350 labels, Embeddings shape: (350, 128)
+2025-08-06 19:14:08,314 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:08,315 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:08,315 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:08,315 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 352 labels, Embeddings shape: (352, 128)
+2025-08-06 19:14:08,479 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:08,479 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:08,479 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:08,479 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 354 labels, Embeddings shape: (354, 128)
+2025-08-06 19:14:08,635 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:08,635 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:08,635 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:08,635 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 356 labels, Embeddings shape: (356, 128)
+2025-08-06 19:14:08,787 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:08,787 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:08,787 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:08,787 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 358 labels, Embeddings shape: (358, 128)
+2025-08-06 19:14:08,936 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:08,936 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:08,936 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:08,936 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 360 labels, Embeddings shape: (360, 128)
+2025-08-06 19:14:09,102 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:09,102 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:09,102 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:09,102 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 362 labels, Embeddings shape: (362, 128)
+2025-08-06 19:14:09,259 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:09,259 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:09,259 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:09,259 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 364 labels, Embeddings shape: (364, 128)
+2025-08-06 19:14:09,418 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:09,418 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:09,418 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:09,418 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 366 labels, Embeddings shape: (366, 128)
+2025-08-06 19:14:09,576 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:09,576 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:09,576 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:09,576 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 368 labels, Embeddings shape: (368, 128)
+2025-08-06 19:14:09,730 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:09,730 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:09,730 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:09,730 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 370 labels, Embeddings shape: (370, 128)
+2025-08-06 19:14:09,890 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:09,891 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:09,891 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:09,891 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 372 labels, Embeddings shape: (372, 128)
+2025-08-06 19:14:10,041 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:10,041 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:10,041 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:10,041 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 374 labels, Embeddings shape: (374, 128)
+2025-08-06 19:14:10,194 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:10,194 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:10,194 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:10,194 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 376 labels, Embeddings shape: (376, 128)
+2025-08-06 19:14:10,345 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:10,346 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:10,346 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:10,346 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 378 labels, Embeddings shape: (378, 128)
+2025-08-06 19:14:10,508 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:10,508 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:10,508 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:10,508 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 380 labels, Embeddings shape: (380, 128)
+2025-08-06 19:14:10,670 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:10,670 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:10,670 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:10,670 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 382 labels, Embeddings shape: (382, 128)
+2025-08-06 19:14:10,823 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:10,823 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:10,823 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:10,823 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 384 labels, Embeddings shape: (384, 128)
+2025-08-06 19:14:10,978 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:10,978 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:10,978 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:10,978 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 386 labels, Embeddings shape: (386, 128)
+2025-08-06 19:14:11,131 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:11,131 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:11,131 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:11,131 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 388 labels, Embeddings shape: (388, 128)
+2025-08-06 19:14:11,286 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:11,286 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:11,286 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:11,286 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 390 labels, Embeddings shape: (390, 128)
+2025-08-06 19:14:11,441 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:11,442 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:11,442 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:11,442 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 392 labels, Embeddings shape: (392, 128)
+2025-08-06 19:14:11,597 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:11,597 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:11,597 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:11,597 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 394 labels, Embeddings shape: (394, 128)
+2025-08-06 19:14:11,752 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:14:11,753 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:11,753 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:11,753 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 396 labels, Embeddings shape: (396, 128)
+2025-08-06 19:14:15,463 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:14:15,463 - FaceRecognizerModule - INFO - EXERCISE 5.2 - FaceRecognizerModule LOGGER INITIALIZED
+2025-08-06 19:14:15,463 - FaceRecognizerModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_2_face_recognition.log
+2025-08-06 19:14:15,463 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:14:15,499 - FaceRecognizerModule - INFO - FaceRecognizerModule.__init__: Initialized with k=5, τd=0.7, τp=0.8
+2025-08-06 19:14:15,499 - FaceRecognizerModule - INFO - Gallery loaded: 396 labels, (396, 128) embeddings
+2025-08-06 19:14:15,881 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:15,881 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:15,881 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:15,881 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 398 labels, Embeddings shape: (398, 128)
+2025-08-06 19:14:16,335 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:16,335 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:16,335 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:16,335 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 400 labels, Embeddings shape: (400, 128)
+2025-08-06 19:14:16,501 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:16,501 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:16,501 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:16,501 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 402 labels, Embeddings shape: (402, 128)
+2025-08-06 19:14:16,655 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:16,655 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:16,655 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:16,655 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 404 labels, Embeddings shape: (404, 128)
+2025-08-06 19:14:16,807 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:16,807 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:16,807 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:16,807 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 406 labels, Embeddings shape: (406, 128)
+2025-08-06 19:14:16,960 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:16,960 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:16,960 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:16,960 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 408 labels, Embeddings shape: (408, 128)
+2025-08-06 19:14:17,114 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:17,114 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:17,114 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:17,114 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 410 labels, Embeddings shape: (410, 128)
+2025-08-06 19:14:17,277 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:17,277 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:17,277 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:17,278 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 412 labels, Embeddings shape: (412, 128)
+2025-08-06 19:14:17,440 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:17,440 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:17,440 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:17,440 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 414 labels, Embeddings shape: (414, 128)
+2025-08-06 19:14:17,595 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:17,595 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:17,595 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:17,595 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 416 labels, Embeddings shape: (416, 128)
+2025-08-06 19:14:17,753 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:17,753 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:17,753 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:17,753 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 418 labels, Embeddings shape: (418, 128)
+2025-08-06 19:14:17,909 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:17,909 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:17,909 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:17,909 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 420 labels, Embeddings shape: (420, 128)
+2025-08-06 19:14:18,069 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:18,069 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:18,069 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:18,069 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 422 labels, Embeddings shape: (422, 128)
+2025-08-06 19:14:18,222 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:18,222 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:18,222 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:18,222 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 424 labels, Embeddings shape: (424, 128)
+2025-08-06 19:14:18,380 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:18,380 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:18,380 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:18,380 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 426 labels, Embeddings shape: (426, 128)
+2025-08-06 19:14:18,533 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:18,533 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:18,533 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:18,533 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 428 labels, Embeddings shape: (428, 128)
+2025-08-06 19:14:18,687 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:18,687 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:18,687 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:18,687 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 430 labels, Embeddings shape: (430, 128)
+2025-08-06 19:14:18,840 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:18,840 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:18,840 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:18,840 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 432 labels, Embeddings shape: (432, 128)
+2025-08-06 19:14:19,005 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:19,005 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:19,005 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:19,005 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 434 labels, Embeddings shape: (434, 128)
+2025-08-06 19:14:19,160 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:19,160 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:19,160 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:19,160 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 436 labels, Embeddings shape: (436, 128)
+2025-08-06 19:14:19,326 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:19,327 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:19,327 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:19,327 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 438 labels, Embeddings shape: (438, 128)
+2025-08-06 19:14:19,481 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:19,481 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:19,481 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:19,481 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 440 labels, Embeddings shape: (440, 128)
+2025-08-06 19:14:19,646 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:19,646 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:19,646 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:19,646 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 442 labels, Embeddings shape: (442, 128)
+2025-08-06 19:14:19,813 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:19,813 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:19,813 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:19,813 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 444 labels, Embeddings shape: (444, 128)
+2025-08-06 19:14:19,977 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:19,977 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:19,977 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:19,977 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 446 labels, Embeddings shape: (446, 128)
+2025-08-06 19:14:20,129 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:20,129 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:20,129 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:20,129 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 448 labels, Embeddings shape: (448, 128)
+2025-08-06 19:14:20,284 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:20,284 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:20,284 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:20,284 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 450 labels, Embeddings shape: (450, 128)
+2025-08-06 19:14:20,437 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:20,437 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:20,437 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:20,437 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 452 labels, Embeddings shape: (452, 128)
+2025-08-06 19:14:20,590 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:20,590 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:20,590 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:20,590 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 454 labels, Embeddings shape: (454, 128)
+2025-08-06 19:14:20,756 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:20,756 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:20,756 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:20,756 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 456 labels, Embeddings shape: (456, 128)
+2025-08-06 19:14:20,908 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:20,908 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:20,908 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:20,908 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 458 labels, Embeddings shape: (458, 128)
+2025-08-06 19:14:21,061 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:21,062 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:21,062 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:21,062 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 460 labels, Embeddings shape: (460, 128)
+2025-08-06 19:14:21,216 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:21,216 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:21,216 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:21,216 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 462 labels, Embeddings shape: (462, 128)
+2025-08-06 19:14:21,377 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:21,377 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:21,377 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:21,377 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 464 labels, Embeddings shape: (464, 128)
+2025-08-06 19:14:21,530 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:21,530 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:21,530 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:21,530 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 466 labels, Embeddings shape: (466, 128)
+2025-08-06 19:14:21,679 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:21,679 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:21,679 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:21,679 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 468 labels, Embeddings shape: (468, 128)
+2025-08-06 19:14:22,395 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:22,395 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:22,395 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:22,396 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 470 labels, Embeddings shape: (470, 128)
+2025-08-06 19:14:22,550 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:22,550 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:22,550 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:22,550 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 472 labels, Embeddings shape: (472, 128)
+2025-08-06 19:14:22,706 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:22,706 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:22,706 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:22,706 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 474 labels, Embeddings shape: (474, 128)
+2025-08-06 19:14:22,866 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:22,866 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:22,866 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:22,866 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 476 labels, Embeddings shape: (476, 128)
+2025-08-06 19:14:23,015 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:23,015 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:23,015 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:23,015 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 478 labels, Embeddings shape: (478, 128)
+2025-08-06 19:14:23,166 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:23,166 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:23,166 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:23,166 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 480 labels, Embeddings shape: (480, 128)
+2025-08-06 19:14:23,332 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:23,332 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:23,332 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:23,332 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 482 labels, Embeddings shape: (482, 128)
+2025-08-06 19:14:23,496 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:23,496 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:23,496 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:23,496 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 484 labels, Embeddings shape: (484, 128)
+2025-08-06 19:14:23,652 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:23,652 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:23,652 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:23,652 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 486 labels, Embeddings shape: (486, 128)
+2025-08-06 19:14:23,807 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:23,807 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:23,807 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:23,808 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 488 labels, Embeddings shape: (488, 128)
+2025-08-06 19:14:23,962 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:23,962 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:23,962 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:23,962 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 490 labels, Embeddings shape: (490, 128)
+2025-08-06 19:14:24,125 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:24,125 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:24,125 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:24,125 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 492 labels, Embeddings shape: (492, 128)
+2025-08-06 19:14:24,282 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:24,282 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:24,282 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:24,282 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 494 labels, Embeddings shape: (494, 128)
+2025-08-06 19:14:24,436 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Nancy_Sinatra
+2025-08-06 19:14:24,436 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:24,436 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:24,436 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 496 labels, Embeddings shape: (496, 128)
+2025-08-06 19:14:28,199 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:14:28,199 - FaceRecognizerModule - INFO - EXERCISE 5.2 - FaceRecognizerModule LOGGER INITIALIZED
+2025-08-06 19:14:28,199 - FaceRecognizerModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_2_face_recognition.log
+2025-08-06 19:14:28,199 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:14:28,235 - FaceRecognizerModule - INFO - FaceRecognizerModule.__init__: Initialized with k=5, τd=0.7, τp=0.8
+2025-08-06 19:14:28,235 - FaceRecognizerModule - INFO - Gallery loaded: 496 labels, (496, 128) embeddings
+2025-08-06 19:14:28,615 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:28,615 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:28,615 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:28,615 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 498 labels, Embeddings shape: (498, 128)
+2025-08-06 19:14:29,133 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:29,133 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:29,133 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:29,133 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 500 labels, Embeddings shape: (500, 128)
+2025-08-06 19:14:29,301 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:29,301 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:29,301 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:29,301 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 502 labels, Embeddings shape: (502, 128)
+2025-08-06 19:14:29,462 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:29,462 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:29,462 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:29,462 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 504 labels, Embeddings shape: (504, 128)
+2025-08-06 19:14:29,620 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:29,621 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:29,621 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:29,621 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 506 labels, Embeddings shape: (506, 128)
+2025-08-06 19:14:29,775 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:29,775 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:29,775 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:29,776 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 508 labels, Embeddings shape: (508, 128)
+2025-08-06 19:14:29,935 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:29,935 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:29,935 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:29,935 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 510 labels, Embeddings shape: (510, 128)
+2025-08-06 19:14:30,088 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:30,088 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:30,088 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:30,088 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 512 labels, Embeddings shape: (512, 128)
+2025-08-06 19:14:30,242 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:30,242 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:30,242 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:30,242 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 514 labels, Embeddings shape: (514, 128)
+2025-08-06 19:14:30,400 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:30,400 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:30,400 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:30,400 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 516 labels, Embeddings shape: (516, 128)
+2025-08-06 19:14:30,560 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:30,560 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:30,560 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:30,560 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 518 labels, Embeddings shape: (518, 128)
+2025-08-06 19:14:30,716 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:30,716 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:30,716 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:30,716 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 520 labels, Embeddings shape: (520, 128)
+2025-08-06 19:14:30,883 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:30,883 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:30,883 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:30,883 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 522 labels, Embeddings shape: (522, 128)
+2025-08-06 19:14:31,040 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:31,040 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:31,040 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:31,040 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 524 labels, Embeddings shape: (524, 128)
+2025-08-06 19:14:31,197 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:31,197 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:31,197 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:31,197 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 526 labels, Embeddings shape: (526, 128)
+2025-08-06 19:14:31,350 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:31,351 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:31,351 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:31,351 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 528 labels, Embeddings shape: (528, 128)
+2025-08-06 19:14:31,510 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:31,510 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:31,510 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:31,510 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 530 labels, Embeddings shape: (530, 128)
+2025-08-06 19:14:31,666 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:31,666 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:31,666 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:31,666 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 532 labels, Embeddings shape: (532, 128)
+2025-08-06 19:14:31,821 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:31,821 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:31,821 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:31,821 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 534 labels, Embeddings shape: (534, 128)
+2025-08-06 19:14:31,978 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:31,978 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:31,978 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:31,978 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 536 labels, Embeddings shape: (536, 128)
+2025-08-06 19:14:32,135 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:32,135 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:32,135 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:32,135 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 538 labels, Embeddings shape: (538, 128)
+2025-08-06 19:14:32,290 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:32,291 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:32,291 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:32,291 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 540 labels, Embeddings shape: (540, 128)
+2025-08-06 19:14:32,451 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:32,451 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:32,451 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:32,451 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 542 labels, Embeddings shape: (542, 128)
+2025-08-06 19:14:32,608 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:32,608 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:32,608 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:32,608 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 544 labels, Embeddings shape: (544, 128)
+2025-08-06 19:14:32,758 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:32,758 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:32,758 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:32,758 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 546 labels, Embeddings shape: (546, 128)
+2025-08-06 19:14:32,923 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:32,923 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:32,923 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:32,923 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 548 labels, Embeddings shape: (548, 128)
+2025-08-06 19:14:33,083 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:33,083 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:33,083 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:33,083 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 550 labels, Embeddings shape: (550, 128)
+2025-08-06 19:14:33,236 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:33,236 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:33,236 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:33,236 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 552 labels, Embeddings shape: (552, 128)
+2025-08-06 19:14:33,388 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:33,388 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:33,388 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:33,388 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 554 labels, Embeddings shape: (554, 128)
+2025-08-06 19:14:33,541 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:33,542 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:33,542 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:33,542 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 556 labels, Embeddings shape: (556, 128)
+2025-08-06 19:14:33,694 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:33,694 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:33,694 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:33,694 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 558 labels, Embeddings shape: (558, 128)
+2025-08-06 19:14:33,845 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:33,846 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:33,846 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:33,846 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 560 labels, Embeddings shape: (560, 128)
+2025-08-06 19:14:34,000 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:34,000 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:34,000 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:34,000 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 562 labels, Embeddings shape: (562, 128)
+2025-08-06 19:14:34,156 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:34,156 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:34,156 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:34,156 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 564 labels, Embeddings shape: (564, 128)
+2025-08-06 19:14:34,310 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:34,310 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:34,310 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:34,310 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 566 labels, Embeddings shape: (566, 128)
+2025-08-06 19:14:34,466 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:34,466 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:34,466 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:34,466 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 568 labels, Embeddings shape: (568, 128)
+2025-08-06 19:14:35,703 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:35,703 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:35,703 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:35,703 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 570 labels, Embeddings shape: (570, 128)
+2025-08-06 19:14:35,858 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:35,858 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:35,858 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:35,858 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 572 labels, Embeddings shape: (572, 128)
+2025-08-06 19:14:36,016 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:36,016 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:36,016 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:36,016 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 574 labels, Embeddings shape: (574, 128)
+2025-08-06 19:14:36,173 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:36,173 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:36,173 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:36,173 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 576 labels, Embeddings shape: (576, 128)
+2025-08-06 19:14:36,331 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:36,331 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:36,331 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:36,331 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 578 labels, Embeddings shape: (578, 128)
+2025-08-06 19:14:36,498 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:36,498 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:36,498 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:36,498 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 580 labels, Embeddings shape: (580, 128)
+2025-08-06 19:14:36,649 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:36,650 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:36,650 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:36,650 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 582 labels, Embeddings shape: (582, 128)
+2025-08-06 19:14:36,806 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:36,806 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:36,806 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:36,806 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 584 labels, Embeddings shape: (584, 128)
+2025-08-06 19:14:36,963 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:36,963 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:36,963 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:36,963 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 586 labels, Embeddings shape: (586, 128)
+2025-08-06 19:14:37,126 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:37,126 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:37,126 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:37,126 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 588 labels, Embeddings shape: (588, 128)
+2025-08-06 19:14:37,293 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:37,293 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:37,293 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:37,293 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 590 labels, Embeddings shape: (590, 128)
+2025-08-06 19:14:37,449 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:37,449 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:37,449 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:37,449 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 592 labels, Embeddings shape: (592, 128)
+2025-08-06 19:14:37,601 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:37,601 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:37,601 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:37,601 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 594 labels, Embeddings shape: (594, 128)
+2025-08-06 19:14:37,765 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:37,765 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:37,765 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:37,765 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 596 labels, Embeddings shape: (596, 128)
+2025-08-06 19:14:37,918 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:37,918 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:37,918 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:37,918 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 598 labels, Embeddings shape: (598, 128)
+2025-08-06 19:14:38,073 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:38,073 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:38,073 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:38,073 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 600 labels, Embeddings shape: (600, 128)
+2025-08-06 19:14:38,230 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:38,230 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:38,230 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:38,230 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 602 labels, Embeddings shape: (602, 128)
+2025-08-06 19:14:38,389 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:38,389 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:38,389 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:38,389 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 604 labels, Embeddings shape: (604, 128)
+2025-08-06 19:14:38,544 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:38,544 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:38,544 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:38,544 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 606 labels, Embeddings shape: (606, 128)
+2025-08-06 19:14:38,701 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:38,701 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:38,701 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:38,701 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 608 labels, Embeddings shape: (608, 128)
+2025-08-06 19:14:38,862 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:38,862 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:38,862 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:38,862 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 610 labels, Embeddings shape: (610, 128)
+2025-08-06 19:14:39,017 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:39,017 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:39,017 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:39,017 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 612 labels, Embeddings shape: (612, 128)
+2025-08-06 19:14:39,173 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:39,173 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:39,173 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:39,173 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 614 labels, Embeddings shape: (614, 128)
+2025-08-06 19:14:39,330 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:39,331 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:39,331 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:39,331 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 616 labels, Embeddings shape: (616, 128)
+2025-08-06 19:14:39,498 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:39,499 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:39,499 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:39,499 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 618 labels, Embeddings shape: (618, 128)
+2025-08-06 19:14:39,649 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:39,649 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:39,649 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:39,649 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 620 labels, Embeddings shape: (620, 128)
+2025-08-06 19:14:39,815 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:39,815 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:39,815 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:39,815 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 622 labels, Embeddings shape: (622, 128)
+2025-08-06 19:14:39,973 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:39,973 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:39,973 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:39,973 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 624 labels, Embeddings shape: (624, 128)
+2025-08-06 19:14:40,130 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:40,130 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:40,130 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:40,130 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 626 labels, Embeddings shape: (626, 128)
+2025-08-06 19:14:40,286 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:40,286 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:40,286 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:40,286 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 628 labels, Embeddings shape: (628, 128)
+2025-08-06 19:14:40,452 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:40,452 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:40,452 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:40,452 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 630 labels, Embeddings shape: (630, 128)
+2025-08-06 19:14:40,611 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:40,611 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:40,611 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:40,611 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 632 labels, Embeddings shape: (632, 128)
+2025-08-06 19:14:40,768 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:40,768 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:40,768 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:40,768 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 634 labels, Embeddings shape: (634, 128)
+2025-08-06 19:14:40,929 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:40,930 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:40,930 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:40,930 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 636 labels, Embeddings shape: (636, 128)
+2025-08-06 19:14:41,087 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:41,087 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:41,087 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:41,087 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 638 labels, Embeddings shape: (638, 128)
+2025-08-06 19:14:41,253 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:41,253 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:41,253 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:41,253 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 640 labels, Embeddings shape: (640, 128)
+2025-08-06 19:14:41,410 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:41,410 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:41,410 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:41,410 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 642 labels, Embeddings shape: (642, 128)
+2025-08-06 19:14:41,574 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:41,574 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:41,574 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:41,574 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 644 labels, Embeddings shape: (644, 128)
+2025-08-06 19:14:41,728 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Peter_Gilmour
+2025-08-06 19:14:41,728 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:14:41,728 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:14:41,728 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 646 labels, Embeddings shape: (646, 128)
+2025-08-06 19:15:09,640 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:15:09,640 - FaceRecognizerModule - INFO - EXERCISE 5.2 - FaceRecognizerModule LOGGER INITIALIZED
+2025-08-06 19:15:09,640 - FaceRecognizerModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_2_face_recognition.log
+2025-08-06 19:15:09,640 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:15:09,679 - FaceRecognizerModule - INFO - FaceRecognizerModule.__init__: Initialized with k=5, τd=0.7, τp=0.8
+2025-08-06 19:15:09,679 - FaceRecognizerModule - INFO - Gallery loaded: 646 labels, (646, 128) embeddings
+2025-08-06 19:15:10,051 - FaceRecognizerModule - DEBUG - [PREDICT] Color Embedding norm: 1.0000
+2025-08-06 19:15:10,051 - FaceRecognizerModule - DEBUG - [PREDICT] Gray Embedding norm: 1.0000
+2025-08-06 19:15:10,051 - FaceRecognizerModule - DEBUG - [PREDICT] Averaged Embedding norm: 0.9971
+2025-08-06 19:15:10,051 - FaceRecognizerModule - DEBUG - Embedding norms - color: 1.0000, gray: 1.0000, averaged: 0.9971
+2025-08-06 19:15:10,051 - FaceRecognizerModule - INFO - [PREDICT] Nearest labels: ['Marina_Silva'], distances: [0.64189775]
+2025-08-06 19:15:10,051 - FaceRecognizerModule - INFO - [PREDICT] Best label: Marina_Silva, Prob: 1.0, Min Dist: 0.6419
+2025-08-06 19:16:54,813 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:16:54,813 - FaceRecognizerModule - INFO - EXERCISE 5.2 - FaceRecognizerModule LOGGER INITIALIZED
+2025-08-06 19:16:54,813 - FaceRecognizerModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_2_face_recognition.log
+2025-08-06 19:16:54,813 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:16:54,850 - FaceRecognizerModule - INFO - FaceRecognizerModule.__init__: Initialized with k=1, τd=0.7, τp=0.8
+2025-08-06 19:16:54,851 - FaceRecognizerModule - INFO - Gallery loaded: 646 labels, (646, 128) embeddings
+2025-08-06 19:16:55,220 - FaceRecognizerModule - DEBUG - [PREDICT] Color Embedding norm: 1.0000
+2025-08-06 19:16:55,220 - FaceRecognizerModule - DEBUG - [PREDICT] Gray Embedding norm: 1.0000
+2025-08-06 19:16:55,220 - FaceRecognizerModule - DEBUG - [PREDICT] Averaged Embedding norm: 0.9971
+2025-08-06 19:16:55,220 - FaceRecognizerModule - DEBUG - Embedding norms - color: 1.0000, gray: 1.0000, averaged: 0.9971
+2025-08-06 19:16:55,220 - FaceRecognizerModule - INFO - [PREDICT] Nearest labels: ['Marina_Silva'], distances: [0.64189775]
+2025-08-06 19:16:55,220 - FaceRecognizerModule - INFO - [PREDICT] Best label: Marina_Silva, Prob: 1.0, Min Dist: 0.6419
+2025-08-06 19:33:56,209 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:33:56,209 - FaceRecognizerModule - INFO - EXERCISE 5.2 - FaceRecognizerModule LOGGER INITIALIZED
+2025-08-06 19:33:56,209 - FaceRecognizerModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_2_face_recognition.log
+2025-08-06 19:33:56,209 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:33:56,247 - FaceRecognizerModule - INFO - FaceRecognizerModule.__init__: Initialized with k=1, τd=0.7, τp=0.5
+2025-08-06 19:34:08,677 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:34:08,677 - FaceRecognizerModule - INFO - EXERCISE 5.2 - FaceRecognizerModule LOGGER INITIALIZED
+2025-08-06 19:34:08,677 - FaceRecognizerModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_2_face_recognition.log
+2025-08-06 19:34:08,677 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:34:08,714 - FaceRecognizerModule - INFO - FaceRecognizerModule.__init__: Initialized with k=1, τd=0.7, τp=0.8
+2025-08-06 19:34:08,714 - FaceRecognizerModule - INFO - Gallery loaded: 646 labels, (646, 128) embeddings
+2025-08-06 19:43:40,663 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:43:40,663 - FaceRecognizerModule - INFO - EXERCISE 5.2 - FaceRecognizerModule LOGGER INITIALIZED
+2025-08-06 19:43:40,663 - FaceRecognizerModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_2_face_recognition.log
+2025-08-06 19:43:40,663 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:43:40,698 - FaceRecognizerModule - INFO - FaceRecognizerModule.__init__: Initialized with k=1, τd=0.7, τp=0.8
+2025-08-06 19:43:40,699 - FaceRecognizerModule - INFO - Gallery loaded: 646 labels, (646, 128) embeddings
+2025-08-06 19:43:41,062 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:41,062 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:41,062 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:41,062 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 648 labels, Embeddings shape: (648, 128)
+2025-08-06 19:43:41,520 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:41,520 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:41,520 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:41,521 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 650 labels, Embeddings shape: (650, 128)
+2025-08-06 19:43:41,686 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:41,686 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:41,686 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:41,686 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 652 labels, Embeddings shape: (652, 128)
+2025-08-06 19:43:41,857 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:41,857 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:41,857 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:41,858 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 654 labels, Embeddings shape: (654, 128)
+2025-08-06 19:43:42,014 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:42,014 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:42,014 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:42,014 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 656 labels, Embeddings shape: (656, 128)
+2025-08-06 19:43:42,188 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:42,188 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:42,188 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:42,188 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 658 labels, Embeddings shape: (658, 128)
+2025-08-06 19:43:42,344 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:42,344 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:42,344 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:42,344 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 660 labels, Embeddings shape: (660, 128)
+2025-08-06 19:43:42,504 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:42,505 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:42,505 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:42,505 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 662 labels, Embeddings shape: (662, 128)
+2025-08-06 19:43:42,660 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:42,660 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:42,660 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:42,660 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 664 labels, Embeddings shape: (664, 128)
+2025-08-06 19:43:42,817 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:42,817 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:42,817 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:42,817 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 666 labels, Embeddings shape: (666, 128)
+2025-08-06 19:43:42,972 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:42,972 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:42,972 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:42,972 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 668 labels, Embeddings shape: (668, 128)
+2025-08-06 19:43:43,126 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:43,126 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:43,126 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:43,126 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 670 labels, Embeddings shape: (670, 128)
+2025-08-06 19:43:43,278 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:43,278 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:43,278 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:43,278 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 672 labels, Embeddings shape: (672, 128)
+2025-08-06 19:43:43,433 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:43,433 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:43,433 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:43,433 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 674 labels, Embeddings shape: (674, 128)
+2025-08-06 19:43:43,589 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:43,589 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:43,589 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:43,589 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 676 labels, Embeddings shape: (676, 128)
+2025-08-06 19:43:43,746 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:43,746 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:43,746 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:43,746 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 678 labels, Embeddings shape: (678, 128)
+2025-08-06 19:43:43,898 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:43,898 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:43,898 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:43,898 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 680 labels, Embeddings shape: (680, 128)
+2025-08-06 19:43:44,054 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:44,054 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:44,054 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:44,054 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 682 labels, Embeddings shape: (682, 128)
+2025-08-06 19:43:44,210 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:44,210 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:44,210 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:44,210 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 684 labels, Embeddings shape: (684, 128)
+2025-08-06 19:43:44,364 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:44,364 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:44,364 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:44,364 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 686 labels, Embeddings shape: (686, 128)
+2025-08-06 19:43:44,519 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:44,519 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:44,519 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:44,519 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 688 labels, Embeddings shape: (688, 128)
+2025-08-06 19:43:44,674 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:44,674 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:44,674 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:44,674 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 690 labels, Embeddings shape: (690, 128)
+2025-08-06 19:43:44,838 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:44,839 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:44,839 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:44,839 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 692 labels, Embeddings shape: (692, 128)
+2025-08-06 19:43:44,993 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:44,993 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:44,993 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:44,993 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 694 labels, Embeddings shape: (694, 128)
+2025-08-06 19:43:45,145 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:45,145 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:45,145 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:45,145 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 696 labels, Embeddings shape: (696, 128)
+2025-08-06 19:43:45,300 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:45,300 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:45,300 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:45,300 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 698 labels, Embeddings shape: (698, 128)
+2025-08-06 19:43:45,453 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:45,453 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:45,453 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:45,453 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 700 labels, Embeddings shape: (700, 128)
+2025-08-06 19:43:45,607 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:45,607 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:45,607 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:45,607 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 702 labels, Embeddings shape: (702, 128)
+2025-08-06 19:43:45,760 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:45,760 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:45,760 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:45,760 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 704 labels, Embeddings shape: (704, 128)
+2025-08-06 19:43:45,910 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:45,910 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:45,910 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:45,911 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 706 labels, Embeddings shape: (706, 128)
+2025-08-06 19:43:46,061 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:46,061 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:46,062 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:46,062 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 708 labels, Embeddings shape: (708, 128)
+2025-08-06 19:43:46,214 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:46,214 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:46,214 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:46,214 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 710 labels, Embeddings shape: (710, 128)
+2025-08-06 19:43:46,367 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:46,367 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:46,367 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:46,367 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 712 labels, Embeddings shape: (712, 128)
+2025-08-06 19:43:46,518 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:46,518 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:46,518 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:46,518 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 714 labels, Embeddings shape: (714, 128)
+2025-08-06 19:43:46,667 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:46,667 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:46,667 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:46,667 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 716 labels, Embeddings shape: (716, 128)
+2025-08-06 19:43:46,817 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:46,817 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:46,817 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:46,817 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 718 labels, Embeddings shape: (718, 128)
+2025-08-06 19:43:47,677 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:47,677 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:47,677 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:47,677 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 720 labels, Embeddings shape: (720, 128)
+2025-08-06 19:43:47,833 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:47,833 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:47,833 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:47,833 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 722 labels, Embeddings shape: (722, 128)
+2025-08-06 19:43:47,989 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:47,990 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:47,990 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:47,990 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 724 labels, Embeddings shape: (724, 128)
+2025-08-06 19:43:48,142 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:48,142 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:48,142 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:48,142 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 726 labels, Embeddings shape: (726, 128)
+2025-08-06 19:43:48,299 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:48,299 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:48,299 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:48,299 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 728 labels, Embeddings shape: (728, 128)
+2025-08-06 19:43:48,457 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:48,457 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:48,457 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:48,457 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 730 labels, Embeddings shape: (730, 128)
+2025-08-06 19:43:48,612 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:48,612 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:48,612 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:48,612 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 732 labels, Embeddings shape: (732, 128)
+2025-08-06 19:43:48,767 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:48,767 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:48,767 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:48,767 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 734 labels, Embeddings shape: (734, 128)
+2025-08-06 19:43:48,933 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:48,933 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:48,933 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:48,933 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 736 labels, Embeddings shape: (736, 128)
+2025-08-06 19:43:49,088 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:49,088 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:49,088 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:49,088 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 738 labels, Embeddings shape: (738, 128)
+2025-08-06 19:43:49,238 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:49,238 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:49,238 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:49,238 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 740 labels, Embeddings shape: (740, 128)
+2025-08-06 19:43:49,392 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:49,392 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:49,392 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:49,392 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 742 labels, Embeddings shape: (742, 128)
+2025-08-06 19:43:49,545 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:49,546 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:49,546 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:49,546 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 744 labels, Embeddings shape: (744, 128)
+2025-08-06 19:43:49,695 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:49,695 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:49,695 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:49,695 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 746 labels, Embeddings shape: (746, 128)
+2025-08-06 19:43:49,845 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:49,845 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:49,845 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:49,845 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 748 labels, Embeddings shape: (748, 128)
+2025-08-06 19:43:49,996 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:49,996 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:49,996 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:49,996 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 750 labels, Embeddings shape: (750, 128)
+2025-08-06 19:43:50,150 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:50,150 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:50,150 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:50,150 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 752 labels, Embeddings shape: (752, 128)
+2025-08-06 19:43:50,305 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:50,305 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:50,305 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:50,305 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 754 labels, Embeddings shape: (754, 128)
+2025-08-06 19:43:50,461 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:50,461 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:50,461 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:50,461 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 756 labels, Embeddings shape: (756, 128)
+2025-08-06 19:43:50,616 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:50,616 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:50,616 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:50,616 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 758 labels, Embeddings shape: (758, 128)
+2025-08-06 19:43:50,773 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:50,773 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:50,773 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:50,773 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 760 labels, Embeddings shape: (760, 128)
+2025-08-06 19:43:50,928 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:50,928 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:50,928 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:50,928 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 762 labels, Embeddings shape: (762, 128)
+2025-08-06 19:43:51,085 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:51,085 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:51,085 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:51,085 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 764 labels, Embeddings shape: (764, 128)
+2025-08-06 19:43:51,239 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:51,240 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:51,240 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:51,240 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 766 labels, Embeddings shape: (766, 128)
+2025-08-06 19:43:51,395 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Label: Marina_Silva
+2025-08-06 19:43:51,396 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Color Embedding norm: 1.0000
+2025-08-06 19:43:51,396 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Grayscale Embedding norm: 1.0000
+2025-08-06 19:43:51,396 - FaceRecognizerModule - INFO - [PARTIAL_FIT] Gallery size: 768 labels, Embeddings shape: (768, 128)
+2025-08-06 19:44:46,320 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:44:46,320 - FaceRecognizerModule - INFO - EXERCISE 5.2 - FaceRecognizerModule LOGGER INITIALIZED
+2025-08-06 19:44:46,320 - FaceRecognizerModule - INFO - Log file: /Users/rahulsawhney/LocalCode/__FAU/12) Computer Vision Project (Majors-2)/Exercise-5/ProfessorOriginalData/logs/exercise_5_2_face_recognition.log
+2025-08-06 19:44:46,320 - FaceRecognizerModule - INFO - ================================================================================
+2025-08-06 19:44:46,357 - FaceRecognizerModule - INFO - FaceRecognizerModule.__init__: Initialized with k=1, τd=0.7, τp=0.8
+2025-08-06 19:44:46,357 - FaceRecognizerModule - INFO - Gallery loaded: 768 labels, (768, 128) embeddings
