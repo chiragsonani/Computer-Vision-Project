@@ -6,7 +6,7 @@ This task involved estimating the dimensions of a box from a 3D point cloud. The
 
 ## 🛠️ Implementation & Code Structure
 
-The project follows a **modular, class-based architecture** built on a `Module` base class, with each component handling a specific part of the processing pipeline. The core libraries used are **NumPy**, **SciPy**, and **Matplotlib**.
+The task follows a **modular, class-based architecture** built on a `Module` base class, with each component handling a specific part of the processing pipeline. The core libraries used are **NumPy**, **SciPy**, and **Matplotlib**.
 
 ### `BoxDataset`
 
@@ -30,7 +30,7 @@ This module performs the final **dimensional calculations**. It computes the box
 
 ### `Viz`
 
-The `Viz` class handles all **visualization** for the project. It generates and saves a series of figures, including:
+The class handles all **visualization** for the project. It generates and saves a series of figures, including:
 - The raw input data (amplitude and distance images).
 - The intermediate floor and box masks, showing the effect of morphological filtering.
 - A final color-coded visualization of the scene, highlighting the floor, box, and background. This visualization also includes the calculated dimensions and corner labels.
