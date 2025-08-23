@@ -1,6 +1,6 @@
 # Computer-Vision-Project [APRIL 2025 - SEPTEMBER 2025]
 
-This repository contains 5 different exercise tasks covering different computer vision topics. Each task is contained in its own folder (`EX1` to `EX5`) with code, data, and results.
+This repository contains 5 different exercise tasks covering different computer vision topics. Each task is contained in its own folder (`EX1` to `EX5`) with a README file, code, data, and results.
 
 ## Table of Contents
 
