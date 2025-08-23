@@ -1,6 +1,6 @@
 # 📦 Computer Vision: Demosaicing & High Dynamic Range (HDR)
 
-This task implements omplete raw image processing pipeline from scratch. It covers the fundamental steps of converting raw sensor data into a viewable image, including demosaicing, color correction, and handling high dynamic range (HDR) scenes.
+This task implements complete raw image processing pipeline from scratch. It covers the fundamental steps of converting raw sensor data into a viewable image, including demosaicing, color correction, and handling high dynamic range (HDR) scenes.
 ---
 
 ## 🚀 The Task Pipeline
