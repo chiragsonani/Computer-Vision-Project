@@ -19,13 +19,13 @@ The image's brightness is adjusted using a non-linear curve, such as gamma corre
 ### **White Balance**
 Color casts are removed by applying an algorithm like "Gray World" to ensure that the colors in the image are accurate and neutral.
 
-###**HDR Merging**
+### **HDR Merging**
 For scenes with a wide range of light, multiple exposures are combined to create a single HDR image that captures detail in both shadows and highlights.
 
-###**Tone Mapping**
+### **Tone Mapping**
 The high dynamic range of the combined image is compressed into a displayable range, allowing it to be viewed on a standard monitor.
 
-###**Final Output**
+### **Final Output**
 The processed image is saved to a standard format like JPG.
 
 ---
